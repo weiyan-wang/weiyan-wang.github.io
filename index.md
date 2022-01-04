@@ -22,7 +22,7 @@ Jiacheng Xia, Gaoxiong Zeng, Junxue Zhang, **Weiyan Wang**, Wei Bai, Junchen Jia
 - Domain-specific Communication Optimization for Distributed DNN Training, preprint \
   Hao Wang, Jingrong Chen, Xinchen Wan, Han Tian, Jiacheng Xia, Gaoxiong Zeng, **Weiyan Wang**, Kai Chen, Wei Bai, Junchen Jiang
 #### Efficient Inference
-- Enabling Edge-Cloud Video Analytics for Robotics Applications, Trans on Cloud Computing \
+- Enabling Edge-Cloud Video Analytics for Robotics Applications, Trans on Cloud Computing(accepted) \
 Yiding Wang, **Weiyan Wang**, Duowen Liu, Xin Jin, Junchen Jiang, Kai Chen
 - Enabling Edge-Cloud Video Analytics for Robotics Applications, Infocomm 2021 \
 Yiding Wang, **Weiyan Wang**, Duowen Liu, Xin Jin, Junchen Jiang, Kai Chen
@@ -67,3 +67,5 @@ I also have the fortune to work with some outstanding collegues during the part-
 ## Miscellaneous
 - I am a amateur badminton player, especially for the men's double game. I prefer combining smashes with drop shots to win the game. I usually use a even-balance and long-size [Duora](https://www.yonex.com/duora-z-strike-duo-zs) racket from Yonex.
 - If have time, I also like reading, hiking and watching footbal to refresh and relax myself. 
+
+Last updated on 4th Jan, 2022

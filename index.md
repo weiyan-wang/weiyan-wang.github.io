@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Weiyan Wang
 
 You can use the [editor on GitHub](https://github.com/weiyan-wang/weiyan-wang.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 

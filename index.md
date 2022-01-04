@@ -69,8 +69,8 @@ I also have the fortune to work with some outstanding collegues during the part-
 - Chapter Contributor for the book [Transfer Learning](https://www.amazon.com/Transfer-Learning-Qiang-Yang/dp/1107016908)
   
 ## Miscellaneous
-- I am a amateur badminton player, especially for the men's double game. I prefer combining smashes with drop shots to win the game. I usually use a even-balance and long-size [Duora](https://www.yonex.com/duora-z-strike-duo-zs) racket from Yonex.
-- If have time, I also like reading, hiking and watching footbal to refresh and relax myself. 
+- I am a badminton fan and amateur player, especially for the men's double game. I prefer combining drop shots with smashes to win a game. I usually use a even-balance and long-size [Duora](https://www.yonex.com/duora-z-strike-duo-zs) racket from Yonex to better control the ball.
+- If have time, I also like reading, hiking and watching football to refresh and relax myself. 
 
 ## Links
 - [Google Scholar](https://scholar.google.com.hk/citations?user=AYrZ5OcAAAAJ&hl=zh-CN)

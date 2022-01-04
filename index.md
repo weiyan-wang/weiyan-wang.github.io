@@ -4,15 +4,15 @@ You can use the [editor on GitHub](https://github.com/weiyan-wang/weiyan-wang.gi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-# Brief Biography
+## Brief Biography
 
-# Interests
+## Interests
 
-# Publications
+## Publications
 
-# Professional Services and Activities
+## Professional Services and Activities
 
-# Teaching and Sharing
+## Teaching and Sharing
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 

@@ -1,6 +1,6 @@
 # _Weiyan Wang_
 <img align="left" width = "130" height = "160"  src="https://raw.githubusercontent.com/weiyan-wang/weiyan-wang.github.io/main/self.png"/>
-Hi there! I am Weiyan Wang, a PhD candidate from Computer Science and Engineering Department, Hong Kong Universitiy of Science and Technology. Currently, I am researching in the **co-design of both system and algorithm** for large scale machine learning system . By exloring the large desygn space combining system and algorithm, I try to find a better way to make the big models trained on big data really happen. And I am reachable by the email _wwangbc AT connect.ust.hk_ .
+Hi there! I am Weiyan Wang, a PhD candidate from Computer Science and Engineering Department, Hong Kong Universitiy of Science and Technology. Currently, I am researching in the **co-design of both system and algorithm** for large scale machine learning system . By exloring the large desygn space combining system and algorithm, I try to find a better way to make the big models trained on big data really happen. 
 
 ## Brief Biography
 I am in my 7-th year to pursue the PhD. degree in [Computer Science and Engineering Department](https://cse.hkust.edu.hk/), Hong Kong Universitiy of Science and Technology and is currently advised by [Prof. Kai Chen](https://cse.hkust.edu.hk/~kaichen/). Before that, I have recieved my M.Phil. degree on Computer Softerware and Theory from [Institution of Software, Chinese Academy of Sciences](http://english.is.cas.cn/) under the supervision of [Prof. Yunquan Zhang](http://people.ucas.edu.cn/~zyq) and [Dr. Guoping Long](http://people.ucas.ac.cn/~0026886). My B.Eng degree in Computer Science and Technology is from [Huazhong University of Science and Technology](http://english.hust.edu.cn/).
@@ -67,5 +67,10 @@ I also have the fortune to work with some outstanding collegues during the part-
 ## Miscellaneous
 - I am a amateur badminton player, especially for the men's double game. I prefer combining smashes with drop shots to win the game. I usually use a even-balance and long-size [Duora](https://www.yonex.com/duora-z-strike-duo-zs) racket from Yonex.
 - If have time, I also like reading, hiking and watching footbal to refresh and relax myself. 
+
+## Links
+- [Google Scholar](https://scholar.google.com.hk/citations?user=AYrZ5OcAAAAJ&hl=zh-CN)
+- [Linkedin](https://www.linkedin.com/in/weiyan-wang-2227a54b/?originalSubdomain=hk)
+- Email: wwangbc AT connect.ust.hk 
 
 Last updated on 4th Jan, 2022

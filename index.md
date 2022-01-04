@@ -1,5 +1,6 @@
 # _Weiyan Wang_
 <img align="left" width = "130" height = "160"  src="https://raw.githubusercontent.com/weiyan-wang/weiyan-wang.github.io/main/self.png"/>
+
 Hi there! I am Weiyan Wang, a PhD candidate from Computer Science and Engineering Department, Hong Kong Universitiy of Science and Technology. Currently, I am researching in the **co-design of both system and algorithm** for large scale machine learning system . By exloring the large desygn space combining system and algorithm, I try to find a better way to make the big models trained on big data really happen. 
 
 ## Brief Biography
@@ -19,7 +20,7 @@ Co-design in both System and Algorithm especially for:
 Jiacheng Xia, Gaoxiong Zeng, Junxue Zhang, **Weiyan Wang**, Wei Bai, Junchen Jiang, Kai Chen
 - Quantifying the Performance of Federated Transfer Learning, IJCAI FL workshop 2019 (Best Student Paper) \
   Qinghe Jing, **Weiyan Wang**, Junxue Zhang, Han Tian, Kai Chen
-- Domain-specific Communication Optimization for Distributed DNN Training, preprint \
+- Domain-specific Communication Optimization for Distributed DNN Training, preprint 2020 \
   Hao Wang, Jingrong Chen, Xinchen Wan, Han Tian, Jiacheng Xia, Gaoxiong Zeng, **Weiyan Wang**, Kai Chen, Wei Bai, Junchen Jiang
 #### Efficient Inference
 - Enabling Edge-Cloud Video Analytics for Robotics Applications, Trans on Cloud Computing(accepted) \

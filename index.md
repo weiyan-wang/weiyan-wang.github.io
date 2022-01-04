@@ -1,4 +1,5 @@
 # _Weiyan Wang_
+<img align="left" width = "130" height = "160"  src="https://raw.githubusercontent.com/weiyan-wang/weiyan-wang.github.io/main/self.png"/>
 Hi there! I am Weiyan Wang, a PhD candidate from Computer Science and Engineering Department, Hong Kong Universitiy of Science and Technology. Currently, I am researching in the **co-design of both system and algorithm** for large scale machine learning system . By exloring the large desygn space combining system and algorithm, I try to find a better way to make the big models trained on big data really happen. And I am reachable by the email _wwangbc AT connect.ust.hk_ .
 
 ## Brief Biography
@@ -68,5 +69,4 @@ I also have the fortune to work with some outstanding collegues during the part-
   
 ## Miscellaneous
 - I am a amateur badminton player, especially for the men's double game. I prefer combining smashes with drop shots to win the game. I usually use a even-balance and long-size [Duora](https://www.yonex.com/duora-z-strike-duo-zs) racket from Yonex.
-
 - If have time, I also like reading, hiking and watching footbal to refresh and relax myself. 

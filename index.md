@@ -61,7 +61,7 @@ I also have the fortune to work with some outstanding colleagues during the part
 
 ## Professional Services and Activities
 - 2020 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sigcom artifact reviewer
-- 2013-Now &nbsp;&nbsp;&nbsp;&nbsp;CSDN OpenCL forum moderator
+- 2013-Now &nbsp;&nbsp;&nbsp;&nbsp;[CSDN OpenCL](https://bbs.csdn.net/forums/Heterogeneous) forum moderator
 - 2011-2013 &nbsp;&nbsp;&nbsp;&nbsp;[OpenCV](https://opencv.org/) code contributor
 
 ## Teaching and Knowledge Sharing

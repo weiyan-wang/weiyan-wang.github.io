@@ -78,6 +78,6 @@ I also have the fortune to work with some outstanding colleagues during the part
 ## Links
 - [Google Scholar](https://scholar.google.com.hk/citations?user=AYrZ5OcAAAAJ&hl=zh-CN)
 - [LinkedIn](https://www.linkedin.com/in/weiyan-wang-2227a54b/?originalSubdomain=hk)
-- Email: wwangbc AT connect.ust.hk 
+- Official Email: _wwangbc AT connect.ust.hk_  Personal Email: _wangweiyanster AT gmail.com_
 
 Last updated on 4th Jan, 2022

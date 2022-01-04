@@ -12,7 +12,7 @@ Co-design in both System and Algorithm especially for:
 
 ## Publications
 
-### Efficient Training
+#### Efficient Training
 - Addressing Network Bottlenecks with Divide-and-Shuffle Synchronization for Distributed DNN Training, Infocomm 2022(Accepted) \
   **Weiyan Wang**, Cengguang Zhang, Liu Yang, Kai Chen, Kun Tan
 - Rethinking transport layer design for distributed machine learning, APNet 2019 \
@@ -21,7 +21,8 @@ Jiacheng Xia, Gaoxiong Zeng, Junxue Zhang, **Weiyan Wang**, Wei Bai, Junchen Jia
   Qinghe Jing, **Weiyan Wang**, Junxue Zhang, Han Tian, Kai Chen
 - Domain-specific Communication Optimization for Distributed DNN Training, preprint \
   Hao Wang, Jingrong Chen, Xinchen Wan, Han Tian, Jiacheng Xia, Gaoxiong Zeng, **Weiyan Wang**, Kai Chen, Wei Bai, Junchen Jiang
-### Efficient Inference
+
+#### Efficient Inference
 - Enabling Edge-Cloud Video Analytics for Robotics Applications, Trans on Cloud Computing \
 Yiding Wang, **Weiyan Wang**, Duowen Liu, Xin Jin, Junchen Jiang, Kai Chen
 - Enabling Edge-Cloud Video Analytics for Robotics Applications, Infocomm 2021 \
@@ -35,7 +36,7 @@ Yiding Wang, **Weiyan Wang**, Junxue Zhang, Junchen Jiang, Kai Chen
 - Accelerating Viola-Jones Face Detection Algorithm on GPUs, HPCC 2012 \
 Haipeng Jia, Yunquan Zhang, **Weiyan Wang**, Jianliang Xu
 
-### Real Big Data without perfect labels
+#### Real Big Data without perfect labels
 - Efficient two-stage label noise reduction for retrieval-based tasks, WSDM 2022(Accepted) \
 Mengmeng Kuang, **Weiyan Wang**, Zhenhong Chen, Lie Kang, Qiang Yan
 - Integrating User and Agent Models:A Deep Task-Oriented Dialogue System, preprint 2017 \

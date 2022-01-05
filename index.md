@@ -19,7 +19,7 @@ Co-design in both System and Algorithm especially for:
   **Weiyan Wang**, Cengguang Zhang, Liu Yang, Kai Chen, Kun Tan
 - Rethinking transport layer design for distributed machine learning, APNet 2019 \
 Jiacheng Xia, Gaoxiong Zeng, Junxue Zhang, **Weiyan Wang**, Wei Bai, Junchen Jiang, Kai Chen
-- Quantifying the Performance of Federated Transfer Learning, IJCAI FL workshop 2019 (Best Student Paper) \
+- Quantifying the Performance of Federated Transfer Learning, IJCAI FL workshop 2019 (<font color=red>Best Student Paper</font>) \
   Qinghe Jing, **Weiyan Wang**, Junxue Zhang, Han Tian, Kai Chen
 - Domain-specific Communication Optimization for Distributed DNN Training, preprint 2020 \
   Hao Wang, Jingrong Chen, Xinchen Wan, Han Tian, Jiacheng Xia, Gaoxiong Zeng, **Weiyan Wang**, Kai Chen, Wei Bai, Junchen Jiang

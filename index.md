@@ -68,7 +68,7 @@ I also have the fortune to work with some outstanding colleagues during the part
 ## Teaching and Knowledge Sharing
 - Teaching Assistant in COMP 1021, Spring and Fall 2016, Spring 2017, HKUST
 - Teaching Assistant in MSBD 6000B(Deep Learning), Fall 2017, HKUST
-- Lecture in [Deep Learning Workshop: Diving into CNN](http://www.hksair.org/article/2-149）, 2019, HKSAIR-HKUST, [slides](https://github.com/weiyan-wang/weiyan-wang.github.io/raw/main/Diving%20into%20CNN.pdf)
+- Lecture in [Deep Learning Workshop: Diving into CNN](http://www.hksair.org/article/2-149), 2019, HKSAIR-HKUST, [slides](https://github.com/weiyan-wang/weiyan-wang.github.io/raw/main/Diving%20into%20CNN.pdf)
 - Chapter Contributor for the book [Transfer Learning](https://www.amazon.com/Transfer-Learning-Qiang-Yang/dp/1107016908)
 
   
@@ -79,6 +79,7 @@ I also have the fortune to work with some outstanding colleagues during the part
 ## Links
 - [Google Scholar](https://scholar.google.com.hk/citations?user=AYrZ5OcAAAAJ&hl=zh-CN)
 - [LinkedIn](https://www.linkedin.com/in/weiyan-wang-2227a54b/?originalSubdomain=hk)
-- Official Email: _wwangbc AT connect.ust.hk_  Personal Email: _wangweiyanster AT gmail.com_
+- Work Email: _wwangbc AT connect.ust.hk_  
+- Personal Email: _wangweiyanster AT gmail.com_
 
 Last updated on 4th Jan, 2022

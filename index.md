@@ -10,7 +10,8 @@ I am in my 7th year to pursue the PhD. degree in [Computer Science and Engineeri
 Co-design in both System and Algorithm especially for:
 - **Efficient big model training on big data**
 - **Efficient model inference for real-time requirements**
-- **Making better use of real big data without perfect labels** (e.g. unlabeled, noisy and out-of-distribution)
+- **Big data without perfect supervision** \
+  e.g. semi-supervised, unsupervised, noisy, out-of-distribution and sparse reward
 
 ## Publications
 

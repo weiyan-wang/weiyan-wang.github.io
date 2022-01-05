@@ -1,16 +1,16 @@
 # _Weiyan Wang_
 <img align="left" width = "130" height = "160"  src="https://raw.githubusercontent.com/weiyan-wang/weiyan-wang.github.io/main/self.png"/>
 
-Hi there! I am Weiyan Wang(王伟俨), a PhD candidate from Computer Science and Engineering Department, Hong Kong University of Science and Technology. Currently, I am researching in the **co-design of both system and algorithm** for large scale machine learning system . By exploring the large design space combining system and algorithm, I try to find a better way to make the big models trained on big data really happen. 
+Hi there! I am Weiyan Wang(王伟俨), a PhD candidate from Computer Science and Engineering Department, Hong Kong University of Science and Technology. Currently, I am researching on the **co-design of both system and algorithm** for large scale machine learning system . By exploring the large design space combining system and algorithm, I try to find a better way to make the big models trained on big data really happen. 
 
 ## Brief Biography
-I am in my 7th year to pursue the PhD. degree in [Computer Science and Engineering Department](https://cse.hkust.edu.hk/), Hong Kong University of Science and Technology and is currently advised by [Prof. Kai Chen](https://cse.hkust.edu.hk/~kaichen/). Before that, I have received my M.Phil. degree on Computer Software and Theory from [Institution of Software, Chinese Academy of Sciences](http://english.is.cas.cn/) under the supervision of [Prof. Yunquan Zhang](http://people.ucas.edu.cn/~zyq) and [Dr. Guoping Long](http://people.ucas.ac.cn/~0026886). My B.Eng. degree in Computer Science and Technology is from [Huazhong University of Science and Technology](http://english.hust.edu.cn/).
+I am in my 7th year to pursue the PhD. degree in [Computer Science and Engineering Department](https://cse.hkust.edu.hk/), Hong Kong University of Science and Technology and is currently advised by [Prof. Kai Chen](https://cse.hkust.edu.hk/~kaichen/). Before that, I have received my M.Phil. degree on Computer Software and Theory from [Institution of Software, Chinese Academy of Sciences](http://english.is.cas.cn/) under the supervision of [Prof. Yunquan Zhang](http://www.carch.ac.cn/yjdw/yjy/201906/t20190628_497178.html) and [Dr. Guoping Long](http://people.ucas.ac.cn/~0026886). My B.Eng. degree in Computer Science and Technology is from [Huazhong University of Science and Technology](http://english.hust.edu.cn/).
 
 ## Research Interests
 Co-design in both System and Algorithm especially for:
 - **Efficient big model training on big data**
 - **Efficient model inference for real-time requirements**
-- **Big data without perfect supervision** \
+- **Real big data without perfect supervision** \
   e.g. semi-supervised, unsupervised, noisy, out-of-distribution and sparse reward
 
 ## Publications

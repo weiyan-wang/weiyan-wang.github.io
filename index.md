@@ -39,7 +39,9 @@ Yiding Wang, **Weiyan Wang**, Junxue Zhang, Junchen Jiang, Kai Chen
 - Accelerating Viola-Jones Face Detection Algorithm on GPUs, HPCC 2012 \
 Haipeng Jia, Yunquan Zhang, **Weiyan Wang**, Jianliang Xu
 
-#### Real Big Data without perfect labels
+#### Real Big Data without perfect supervision
+- Multi-Objective Congestion Control, EuroSys 2022(Accepted) \
+Yiqing Ma, Han Tian, Xudong Liao, Junxue Zhang, **Weiyan Wang**, Kai Chen, Xin Jin
 - Efficient two-stage label noise reduction for retrieval-based tasks, WSDM 2022(Accepted) \
 Mengmeng Kuang, **Weiyan Wang**, Zhenhong Chen, Lie Kang, Qiang Yan
 - Integrating User and Agent Models:A Deep Task-Oriented Dialogue System, preprint 2017 \

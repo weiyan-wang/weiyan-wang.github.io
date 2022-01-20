@@ -49,7 +49,7 @@ Mengmeng Kuang, **Weiyan Wang**, Zhenhong Chen, Lie Kang, Qiang Yan
 
 ## Projects and Interships
 I lead or co-ordinate several HKUST-Enterprise Cooperated Projects:
-- Central Software Institute, Huawei: DS-Sync
+- Central Software Institute, Huawei: Divide-and-Shuffle Synchronization
 - [Wechat](https://www.wechat.com/), Tencent: Learn to label
 - [PCL](https://pcl.ac.cn/) and [Clustar](www.clustar.ai) : Federated Learning Accelerating
 

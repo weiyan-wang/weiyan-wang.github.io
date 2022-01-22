@@ -26,9 +26,7 @@ Jiacheng Xia, Gaoxiong Zeng, Junxue Zhang, **Weiyan Wang**, Wei Bai, Junchen Jia
   Hao Wang, Jingrong Chen, Xinchen Wan, Han Tian, Jiacheng Xia, Gaoxiong Zeng, **Weiyan Wang**, Kai Chen, Wei Bai, Junchen Jiang
 
 #### Efficient Inference
-- Enabling Edge-Cloud Video Analytics for Robotics Applications, Trans on Cloud Computing(accepted) \
-Yiding Wang, **Weiyan Wang**, Duowen Liu, Xin Jin, Junchen Jiang, Kai Chen
-- Enabling Edge-Cloud Video Analytics for Robotics Applications, Infocom 2021 \
+- Enabling Edge-Cloud Video Analytics for Robotics Applications, Infocom 2021 & full version in Trans on Cloud Computing(accepted)\
 Yiding Wang, **Weiyan Wang**, Duowen Liu, Xin Jin, Junchen Jiang, Kai Chen
 - Bridging the edge-cloud barrier for real-time advanced vision analytics, Hotcloud 2019\
 Yiding Wang, **Weiyan Wang**, Junxue Zhang, Junchen Jiang, Kai Chen

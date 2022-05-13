@@ -16,7 +16,7 @@ Co-design in both System and Algorithm especially for:
 ## Publications
 
 #### Efficient Training
-- Addressing Network Bottlenecks with Divide-and-Shuffle Synchronization for Distributed DNN Training, Infocom 2022(Accepted) \
+- Addressing Network Bottlenecks with Divide-and-Shuffle Synchronization for Distributed DNN Training, Infocom 2022(CCF-A) \
   **Weiyan Wang**, Cengguang Zhang, Liu Yang, Kai Chen, Kun Tan
 - Rethinking transport layer design for distributed machine learning, APNet 2019 \
 Jiacheng Xia, Gaoxiong Zeng, Junxue Zhang, **Weiyan Wang**, Wei Bai, Junchen Jiang, Kai Chen
@@ -26,26 +26,26 @@ Jiacheng Xia, Gaoxiong Zeng, Junxue Zhang, **Weiyan Wang**, Wei Bai, Junchen Jia
   Hao Wang, Jingrong Chen, Xinchen Wan, Han Tian, Jiacheng Xia, Gaoxiong Zeng, **Weiyan Wang**, Kai Chen, Wei Bai, Junchen Jiang
 
 #### Efficient Inference
-- Enabling Edge-Cloud Video Analytics for Robotics Applications, Infocom 2021 & full version in Trans on Cloud Computing(accepted)\
+- Enabling Edge-Cloud Video Analytics for Robotics Applications, Infocom 2021(CCF-A) & full version in Trans on Cloud Computing(CCF-C)\
 Yiding Wang, **Weiyan Wang**, Duowen Liu, Xin Jin, Junchen Jiang, Kai Chen
-- Bridging the edge-cloud barrier for real-time advanced vision analytics, Hotcloud 2019\
+- Bridging the edge-cloud barrier for real-time advanced vision analytics, Hotcloud 2019(CCF-C)\
 Yiding Wang, **Weiyan Wang**, Junxue Zhang, Junchen Jiang, Kai Chen
-- CLSIFT: An Optimization Study of the Scale Invariance Feature Transform on GPUs, HPCC 2013 \
+- CLSIFT: An Optimization Study of the Scale Invariance Feature Transform on GPUs, HPCC 2013(CCF-C) \
 **Weiyan Wang**, Yunquan Zhang, Guoping Long, Shengen Yan, Haipeng Jia
-- Parallelization and performance optimization on face detection algorithm with OpenCL: A case study[J]., Tsinghua Science and Technology \
+- Parallelization and performance optimization on face detection algorithm with OpenCL: A case study[J]., Tsinghua Science and Technology (SCI) \
 **Weiyan Wang**,Yunquan Zhang, Shengen Yan, Ying Zhang, Haipeng Jia
-- Accelerating Viola-Jones Face Detection Algorithm on GPUs, HPCC 2012 \
+- Accelerating Viola-Jones Face Detection Algorithm on GPUs, HPCC 2012(CCF-C) \
 Haipeng Jia, Yunquan Zhang, **Weiyan Wang**, Jianliang Xu
 
 #### Real Big Data without perfect supervision
-- Multi-Objective Congestion Control, EuroSys 2022(Accepted) \
+- Multi-Objective Congestion Control, EuroSys 2022(CCF-B) \
 Yiqing Ma, Han Tian, Xudong Liao, Junxue Zhang, **Weiyan Wang**, Kai Chen, Xin Jin
-- Efficient two-stage label noise reduction for retrieval-based tasks, WSDM 2022(Accepted) \
+- Efficient two-stage label noise reduction for retrieval-based tasks, WSDM 2022(CCF-B) \
 Mengmeng Kuang, **Weiyan Wang**, Zhenhong Chen, Lie Kang, Qiang Yan
 - Integrating User and Agent Models:A Deep Task-Oriented Dialogue System, preprint 2017 \
 **Weiyan Wang**, Yuxiang WU, Yu Zhang, Zhongqi Lu, Kaixiang Mo, Qiang Yang
 
-## Projects and Interships
+## Projects and Internships
 I lead or co-ordinate several HKUST-Enterprise Cooperated Projects:
 - Central Software Institute, Huawei: Divide-and-Shuffle Synchronization
 - [Wechat](https://www.wechat.com/), Tencent: Learn to label

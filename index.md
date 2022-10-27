@@ -53,7 +53,7 @@ I lead or co-ordinate several HKUST-Enterprise Cooperated Projects:
 
 
 I also have the fortune to work with some outstanding colleagues during the part-time internships and the full-time job:
-- 2020.6——Now   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; WeChat Search
+- 2020.6——2022.3   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; WeChat Search
 - 2019.9——2020.1    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pengcheng Lab
 - 2014.7——2015.9	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; headquarter, Bank of China (full time)
 - 2014.4——2014.6	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; IDL, Baidu

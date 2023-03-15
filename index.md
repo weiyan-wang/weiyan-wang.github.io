@@ -38,6 +38,8 @@ Yiding Wang, **Weiyan Wang**, Junxue Zhang, Junchen Jiang, Kai Chen
 Haipeng Jia, Yunquan Zhang, **Weiyan Wang**, Jianliang Xu
 
 #### Real Big Data without perfect supervision
+- Multi-task Learning Based Keywords Weighted Siamese Model for Semantic Retrieval, PAKDD 2023(CCF-C) \
+Mengmeng Kuang, Zhenhong Chen, **Weiyan Wang(Corresponding)**, Lie Kang, Qiang Yan, Min Tang, Penghui Hao
 - Multi-Objective Congestion Control, EuroSys 2022(CCF-B) \
 Yiqing Ma, Han Tian, Xudong Liao, Junxue Zhang, **Weiyan Wang**, Kai Chen, Xin Jin
 - Efficient two-stage label noise reduction for retrieval-based tasks, WSDM 2022(CCF-B) \
@@ -61,8 +63,9 @@ I also have the fortune to work with some outstanding colleagues during the part
 - 2013.5——2013.7	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AMD China Research
 
 ## Professional Services and Activities
+- 2022 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ICNCIT reviewer
 - 2020 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sigcom artifact reviewer
-- 2013-Now &nbsp;&nbsp;&nbsp;&nbsp;[CSDN OpenCL](https://bbs.csdn.net/forums/Heterogeneous) forum moderator
+- 2013-2018 &nbsp;&nbsp;&nbsp;&nbsp;[CSDN OpenCL](https://bbs.csdn.net/forums/Heterogeneous) forum moderator
 - 2011-2013 &nbsp;&nbsp;&nbsp;&nbsp;[OpenCV](https://opencv.org/) code contributor
 
 ## Teaching and Knowledge Sharing
@@ -82,5 +85,5 @@ I also have the fortune to work with some outstanding colleagues during the part
 - Work Email: _wwangbc AT connect.ust.hk_  
 - Personal Email: _wangweiyanster AT gmail.com_
 
-Last updated on 20th Jan, 2022 \
+Last updated on 15th March, 2023 \
 created on 4th Jan, 2022

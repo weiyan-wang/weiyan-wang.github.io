@@ -18,7 +18,7 @@ Co-design in both System and Algorithm especially for:
 #### Efficient Training
 - Addressing Network Bottlenecks with Divide-and-Shuffle Synchronization for Distributed DNN Training, Infocom 2022(CCF-A) \
   **Weiyan Wang**, Cengguang Zhang, Liu Yang, Kai Chen, Kun Tan
-- Rethinking transport layer design for distributed machine learning, APNet 2019 \
+- Rethinking transport layer design for distributed machine learning, APNet 2019（CCF-C） \
 Jiacheng Xia, Gaoxiong Zeng, Junxue Zhang, **Weiyan Wang**, Wei Bai, Junchen Jiang, Kai Chen
 - Quantifying the Performance of Federated Transfer Learning, IJCAI FL workshop 2019 (<font color=red>Best Student Paper</font>) \
   Qinghe Jing, **Weiyan Wang**, Junxue Zhang, Han Tian, Kai Chen
@@ -39,8 +39,8 @@ Haipeng Jia, Yunquan Zhang, **Weiyan Wang**, Jianliang Xu
 
 #### Real Big Data without perfect supervision
 - Multi-task Learning Based Keywords Weighted Siamese Model for Semantic Retrieval, PAKDD 2023(CCF-C) \
-Mengmeng Kuang, Zhenhong Chen, **Weiyan Wang(Corresponding)**, Lie Kang, Qiang Yan, Min Tang, Penghui Hao
-- Multi-Objective Congestion Control, EuroSys 2022(CCF-B) \
+Mengmeng Kuang, Zhenhong Chen, **Weiyan Wang**, Lie Kang, Qiang Yan, Min Tang, Penghui Hao
+- Multi-Objective Congestion Control, EuroSys 2022(CCF-A) \
 Yiqing Ma, Han Tian, Xudong Liao, Junxue Zhang, **Weiyan Wang**, Kai Chen, Xin Jin
 - Efficient two-stage label noise reduction for retrieval-based tasks, WSDM 2022(CCF-B) \
 Mengmeng Kuang, **Weiyan Wang**, Zhenhong Chen, Lie Kang, Qiang Yan

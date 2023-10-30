@@ -16,6 +16,7 @@ Co-design in both System and Algorithm especially for:
 ## Publications
 
 #### Efficient Training
+
 - Addressing Network Bottlenecks with Divide-and-Shuffle Synchronization for Distributed DNN Training, Infocom 2022(CCF-A) \
   **Weiyan Wang**, Cengguang Zhang, Liu Yang, Kai Chen, Kun Tan
 - Rethinking transport layer design for distributed machine learning, APNet 2019（CCF-C） \
@@ -26,6 +27,8 @@ Jiacheng Xia, Gaoxiong Zeng, Junxue Zhang, **Weiyan Wang**, Wei Bai, Junchen Jia
   Hao Wang, Jingrong Chen, Xinchen Wan, Han Tian, Jiacheng Xia, Gaoxiong Zeng, **Weiyan Wang**, Kai Chen, Wei Bai, Junchen Jiang
 
 #### Efficient Inference
+- MDP: Model Decomposition and Parallelization of Vision Transformer for Distributed Edge Inference, IEEE MSN(CCF-C) \
+**Weiyan Wang**,  Yiming Zhang, Yilun Jin, Han Tian, Li Chen
 - Enabling Edge-Cloud Video Analytics for Robotics Applications, Infocom 2021(CCF-A) & full version in Trans on Cloud Computing(CCF-C)\
 Yiding Wang, **Weiyan Wang**, Duowen Liu, Xin Jin, Junchen Jiang, Kai Chen
 - Bridging the edge-cloud barrier for real-time advanced vision analytics, Hotcloud 2019(CCF-C)\

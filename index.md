@@ -66,6 +66,7 @@ I also have the fortune to work with some outstanding colleagues during the part
 - 2013.5——2013.7	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AMD China Research
 
 ## Professional Services and Activities
+- 2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Globalcom Workshop AINextGenWN reviewer 
 - 2022 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ICNCIT reviewer
 - 2020 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sigcom artifact reviewer
 - 2013-2018 &nbsp;&nbsp;&nbsp;&nbsp;[CSDN OpenCL](https://bbs.csdn.net/forums/Heterogeneous) forum moderator

@@ -1,10 +1,11 @@
 # _Weiyan Wang_
 <img align="left" width = "130" height = "160"  src="https://raw.githubusercontent.com/weiyan-wang/weiyan-wang.github.io/main/self.png"/>
 
-Hi there! I am Weiyan Wang(王伟俨), a PhD candidate from Computer Science and Engineering Department, Hong Kong University of Science and Technology. Currently, I am researching on the **co-design of both system and algorithm** for large scale machine learning system . By exploring the large design space combining system and algorithm, I try to find a better way to make the big models trained on big data really happen. 
+Hi there! My name is Weiyan Wang(王伟俨). I am working for Machine Learning Platform Department(MLPD), Tencent, where I fortunately get support from [Project Up(青云计划，原技术大咖)](https://join.qq.com/qingyun.html).  Currently, I am working and researching on the **co-design of both system and algorithm** for large scale machine learning system. By exploring the large design space combining system and algorithm, I try to find a better way to make the big models trained on big data really happen. 
+
 
 ## Brief Biography
-I am pursuing my the PhD. degree in [Computer Science and Engineering Department](https://cse.hkust.edu.hk/), Hong Kong University of Science and Technology and I am currently advised by [Prof. Kai Chen](https://cse.hkust.edu.hk/~kaichen/). Before that, I have received my M.Phil. degree on Computer Software and Theory from [Institution of Software, Chinese Academy of Sciences](http://english.is.cas.cn/) under the supervision of [Prof. Yunquan Zhang](http://www.carch.ac.cn/yjdw/yjy/201906/t20190628_497178.html) and [Dr. Guoping Long](http://people.ucas.ac.cn/~0026886). My B.Eng. degree in Computer Science and Technology is from [Huazhong University of Science and Technology](http://english.hust.edu.cn/).
+Before that, I obtained my the PhD. degree in [Computer Science and Engineering Department](https://cse.hkust.edu.hk/), Hong Kong University of Science and Technology, advised by [Prof. Kai Chen](https://cse.hkust.edu.hk/~kaichen/). I have received my M.Phil. degree on Computer Software and Theory from [Institution of Software, Chinese Academy of Sciences](http://english.is.cas.cn/) under the supervision of [Prof. Yunquan Zhang](http://www.carch.ac.cn/yjdw/yjy/201906/t20190628_497178.html) and [Dr. Guoping Long](http://people.ucas.ac.cn/~0026886). My B.Eng. degree in Computer Science and Technology is from [Huazhong University of Science and Technology](http://english.hust.edu.cn/).
 
 ## Research Interests
 Co-design in both System and Algorithm especially for:
@@ -16,7 +17,10 @@ Co-design in both System and Algorithm especially for:
 ## Publications
 
 #### Efficient Training
-
+- Hunyuan-DiT: A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding (Technical report, [open source project](https://github.com/Tencent/HunyuanDiT)) \
+Zhimin Li, Jianwei Zhang, Qin Lin, Jiangfeng Xiong, Yanxin Long, Xinchi Deng, Yingfang Zhang, Xingchao Liu, Minbin Huang, Zedong Xiao, Dayou Chen, Jiajun He, Jiahao Li, Wenyue Li, Chen Zhang, Rongwei Quan, Jianxiang Lu, Jiabin Huang, Xiaoyan Yuan, Xiaoxiao Zheng, Yixuan Li, Jihong Zhang, Chao Zhang, Meng Chen, Jie Liu, Zheng Fang, **Weiyan Wang**, Jinbao Xue, Yangyu Tao, Jianchen Zhu, Kai Liu, Sihuan Lin, Yifu Sun, Yun Li, Dongdong Wang, Mingtao Chen, Zhichao Hu, Xiao Xiao, Yan Chen, Yuhong Liu, Wei Liu, Di Wang, Yong Yang, Jie Jiang, Qinglin Lu
+- Surge Phenomenon in Optimal Learning Rate and Batch Size Scaling (Technical report)\
+Shuaipeng Li, Penghao Zhao, Hailin Zhang, Samm Sun, Hao Wu, Dian Jiao, **Weiyan Wang**, Chengjun Liu, Zheng Fang, Jinbao Xue, Yangyu Tao, Bin CUI, Di Wang
 - Addressing Network Bottlenecks with Divide-and-Shuffle Synchronization for Distributed DNN Training, Infocom 2022(CCF-A) \
   **Weiyan Wang**, Cengguang Zhang, Liu Yang, Kai Chen, Kun Tan
 - Rethinking transport layer design for distributed machine learning, APNet 2019（CCF-C） \
@@ -41,6 +45,8 @@ Yiding Wang, **Weiyan Wang**, Junxue Zhang, Junchen Jiang, Kai Chen
 Haipeng Jia, Yunquan Zhang, **Weiyan Wang**, Jianliang Xu
 
 #### Real Big Data without perfect supervision
+- Prometheus: Out-of-distribution Fluid Dynamics Modeling with Disentangled Graph ODE（CCF-A) \
+Hao Wu, Huiyuan Wang, Kun Wang, **Weiyan Wang**, ChanganYe, Yangyu Tao, Chong Chen, Xian-Sheng Hua, Xiao Luo
 - Multi-task Learning Based Keywords Weighted Siamese Model for Semantic Retrieval, PAKDD 2023(CCF-C) \
 Mengmeng Kuang, Zhenhong Chen, **Weiyan Wang(Corresponding)**, Lie Kang, Qiang Yan, Min Tang, Penghui Hao
 - Multi-Objective Congestion Control, EuroSys 2022(CCF-A) \
@@ -89,5 +95,5 @@ I also have the fortune to work with some outstanding colleagues during the part
 - Work Email: _wwangbc AT connect.ust.hk_  
 - Personal Email: _wangweiyanster AT gmail.com_
 
-Last updated on 15th March, 2023 \
+Last updated on 11st Augest, 2024 \
 created on 4th Jan, 2022

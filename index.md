@@ -1,7 +1,7 @@
 # _Weiyan Wang_
 <img align="left" width = "130" height = "160"  src="https://raw.githubusercontent.com/weiyan-wang/weiyan-wang.github.io/main/self.png"/>
 
-Hi there! My name is Weiyan Wang(王伟俨). I am working for Tencent, where I fortunately get support from [Project Up(青云计划, 原技术大咖)](https://join.qq.com/qingyun.html).  Currently, I am working and researching on the **co-design of both system and algorithm** for large scale machine learning system. By exploring the large design space combining system and algorithm, I try to find a better way to make the big models trained on big data really happen. 
+Hi there! My name is Weiyan Wang(王伟俨). I am working for Tencent, where I fortunately get suppors from [Project Up(青云计划, 原技术大咖)](https://join.qq.com/qingyun.html).  Currently, I am working and researching on the **co-design of both system and algorithm** for large scale machine learning system. By exploring the large design space combining system and algorithm, I try to find a better way to make the big models trained on big data really happen. 
 
 
 ## Brief Biography

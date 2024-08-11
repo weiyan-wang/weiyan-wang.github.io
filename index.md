@@ -45,7 +45,7 @@ Yiding Wang, **Weiyan Wang**, Junxue Zhang, Junchen Jiang, Kai Chen
 Haipeng Jia, Yunquan Zhang, **Weiyan Wang**, Jianliang Xu
 
 #### Real Big Data without perfect supervision
-- Prometheus: Out-of-distribution Fluid Dynamics Modeling with Disentangled Graph ODE（CCF-A) \
+- Prometheus: Out-of-distribution Fluid Dynamics Modeling with Disentangled Graph ODE, ICML 2024（CCF-A) \
 Hao Wu, Huiyuan Wang, Kun Wang, **Weiyan Wang**, ChanganYe, Yangyu Tao, Chong Chen, Xian-Sheng Hua, Xiao Luo
 - Multi-task Learning Based Keywords Weighted Siamese Model for Semantic Retrieval, PAKDD 2023(CCF-C) \
 Mengmeng Kuang, Zhenhong Chen, **Weiyan Wang(Corresponding)**, Lie Kang, Qiang Yan, Min Tang, Penghui Hao

@@ -1,11 +1,11 @@
 # _Weiyan Wang_
 <img align="left" width = "130" height = "160"  src="https://raw.githubusercontent.com/weiyan-wang/weiyan-wang.github.io/main/self.png"/>
 
-Hi there! My name is Weiyan Wang(王伟俨). I am working for Machine Learning Platform Department(MLPD) in Tencent, where I fortunately get support from [Project Up(青云计划, 原技术大咖)](https://join.qq.com/qingyun.html).  Currently, I am working and researching on the **co-design of both system and algorithm** for large scale machine learning system. By exploring the large design space combining system and algorithm, I try to find a better way to make the big models trained on big data really happen. 
+Hi there! My name is Weiyan Wang(王伟俨). I am working for Tencent, where I fortunately get support from [Project Up(青云计划, 原技术大咖)](https://join.qq.com/qingyun.html).  Currently, I am working and researching on the **co-design of both system and algorithm** for large scale machine learning system. By exploring the large design space combining system and algorithm, I try to find a better way to make the big models trained on big data really happen. 
 
 
 ## Brief Biography
-Before that, I obtained my the PhD. degree in [Computer Science and Engineering Department](https://cse.hkust.edu.hk/), Hong Kong University of Science and Technology, advised by [Prof. Kai Chen](https://cse.hkust.edu.hk/~kaichen/). I have received my M.Phil. degree on Computer Software and Theory from [Institution of Software, Chinese Academy of Sciences](http://english.is.cas.cn/) under the supervision of [Prof. Yunquan Zhang](http://www.carch.ac.cn/yjdw/yjy/201906/t20190628_497178.html) and [Dr. Guoping Long](http://people.ucas.ac.cn/~0026886). My B.Eng. degree in Computer Science and Technology is from [Huazhong University of Science and Technology](http://english.hust.edu.cn/).
+I am working as a senior R&D engineer in Machine Learning Platform Department(MLPD), Tencent. Before that, I obtained my the PhD. degree in [Computer Science and Engineering Department](https://cse.hkust.edu.hk/), Hong Kong University of Science and Technology, advised by [Prof. Kai Chen](https://cse.hkust.edu.hk/~kaichen/). I have received my M.Phil. degree on Computer Software and Theory from [Institution of Software, Chinese Academy of Sciences](http://english.is.cas.cn/) under the supervision of [Prof. Yunquan Zhang](http://www.carch.ac.cn/yjdw/yjy/201906/t20190628_497178.html) and [Dr. Guoping Long](http://people.ucas.ac.cn/~0026886). My B.Eng. degree in Computer Science and Technology is from [Huazhong University of Science and Technology](http://english.hust.edu.cn/).
 
 ## Research Interests
 Co-design in both System and Algorithm especially for:

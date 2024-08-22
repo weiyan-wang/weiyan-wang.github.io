@@ -31,7 +31,7 @@ Jiacheng Xia, Gaoxiong Zeng, Junxue Zhang, **Weiyan Wang**, Wei Bai, Junchen Jia
   Hao Wang, Jingrong Chen, Xinchen Wan, Han Tian, Jiacheng Xia, Gaoxiong Zeng, **Weiyan Wang**, Kai Chen, Wei Bai, Junchen Jiang
 
 #### Efficient Inference
-- Exploiting Student Parallelism for Low-latency GPU Inference of BERT-like Models in Online Services (Technical report)
+- Exploiting Student Parallelism for Low-latency GPU Inference of BERT-like Models in Online Services (Technical report) \
 **Weiyan Wang**, Yilun Jin, Yiming Zhang, Victor Junqiu Wei, Han Tian, Li Chen, Kai Chen
 - MDP: Model Decomposition and Parallelization of Vision Transformer for Distributed Edge Inference, IEEE MSN(CCF-C) \
 **Weiyan Wang**,  Yiming Zhang, Yilun Jin, Han Tian, Li Chen

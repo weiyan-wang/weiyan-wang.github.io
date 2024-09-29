@@ -1,7 +1,7 @@
 # _Weiyan Wang_
 <img align="left" width = "130" height = "160"  src="https://raw.githubusercontent.com/weiyan-wang/weiyan-wang.github.io/main/self.png"/>
 
-Hi there! My name is Weiyan Wang(王伟俨). I am working for Tencent, where I fortunately get suppors from [Project Up(青云计划, 原技术大咖)](https://join.qq.com/qingyun.html).  Currently, I am working and researching on the **co-design of both system and algorithm** for large scale machine learning system. By exploring the large design space combining system and algorithm, I try to find a better way to make the big models trained on big data really happen. 
+Hi there! My name is Weiyan Wang(王伟俨). Currently,  I am working for Tencent, where I fortunately get supports from [Project Up(青云计划, 原技术大咖)](https://join.qq.com/qingyun.html).  I focus on the **co-design of both system and algorithm** for large scale machine learning system. By exploring the large design space combining system and algorithm, I try to find a better way to make the big models trained on big data really happen.
 
 
 ## Brief Biography
@@ -19,7 +19,7 @@ Co-design in both System and Algorithm especially for:
 #### Efficient Training
 - Hunyuan-DiT: A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding (Technical report, [open source project](https://github.com/Tencent/HunyuanDiT)) \
 Zhimin Li, Jianwei Zhang, Qin Lin, Jiangfeng Xiong, Yanxin Long, Xinchi Deng, Yingfang Zhang, Xingchao Liu, Minbin Huang, Zedong Xiao, Dayou Chen, Jiajun He, Jiahao Li, Wenyue Li, Chen Zhang, Rongwei Quan, Jianxiang Lu, Jiabin Huang, Xiaoyan Yuan, Xiaoxiao Zheng, Yixuan Li, Jihong Zhang, Chao Zhang, Meng Chen, Jie Liu, Zheng Fang, **Weiyan Wang**, Jinbao Xue, Yangyu Tao, Jianchen Zhu, Kai Liu, Sihuan Lin, Yifu Sun, Yun Li, Dongdong Wang, Mingtao Chen, Zhichao Hu, Xiao Xiao, Yan Chen, Yuhong Liu, Wei Liu, Di Wang, Yong Yang, Jie Jiang, Qinglin Lu
--- Surge Phenomenon in Optimal Learning Rate and Batch Size Scaling (Technical report)\
+- Surge Phenomenon in Optimal Learning Rate and Batch Size Scaling NeurIPS 2024(CCF-A)\
 Shuaipeng Li, Penghao Zhao, Hailin Zhang, Samm Sun, Hao Wu, Dian Jiao, **Weiyan Wang**, Chengjun Liu, Zheng Fang, Jinbao Xue, Yangyu Tao, Bin CUI, Di Wang
 - Addressing Network Bottlenecks with Divide-and-Shuffle Synchronization for Distributed DNN Training, Infocom 2022(CCF-A) \
   **Weiyan Wang**, Cengguang Zhang, Liu Yang, Kai Chen, Kun Tan
@@ -100,5 +100,5 @@ I also have the fortune to work with some outstanding colleagues during the part
 - Work Email: _wwangbc AT connect.ust.hk_  
 - Personal Email: _wangweiyanster AT gmail.com_
 
-Last updated on 11st Augest, 2024 \
+Last updated on 29th September, 2024 \
 created on 4th Jan, 2022

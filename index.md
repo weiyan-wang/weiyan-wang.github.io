@@ -17,6 +17,7 @@ Co-design in both System and Algorithm especially for:
 ## Publications
 
 #### Efficient Training
+- HunyuanVideo: A Systematic Framework For Large Video Generative Models  (Technical report, [open source project](https://github.com/Tencent/HunyuanVideo))
 - Hunyuan-DiT: A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding (Technical report, [open source project](https://github.com/Tencent/HunyuanDiT)) \
 Zhimin Li, Jianwei Zhang, Qin Lin, Jiangfeng Xiong, Yanxin Long, Xinchi Deng, Yingfang Zhang, Xingchao Liu, Minbin Huang, Zedong Xiao, Dayou Chen, Jiajun He, Jiahao Li, Wenyue Li, Chen Zhang, Rongwei Quan, Jianxiang Lu, Jiabin Huang, Xiaoyan Yuan, Xiaoxiao Zheng, Yixuan Li, Jihong Zhang, Chao Zhang, Meng Chen, Jie Liu, Zheng Fang, **Weiyan Wang**, Jinbao Xue, Yangyu Tao, Jianchen Zhu, Kai Liu, Sihuan Lin, Yifu Sun, Yun Li, Dongdong Wang, Mingtao Chen, Zhichao Hu, Xiao Xiao, Yan Chen, Yuhong Liu, Wei Liu, Di Wang, Yong Yang, Jie Jiang, Qinglin Lu
 - Surge Phenomenon in Optimal Learning Rate and Batch Size Scaling NeurIPS 2024(CCF-A)\
@@ -32,7 +33,7 @@ Jiacheng Xia, Gaoxiong Zeng, Junxue Zhang, **Weiyan Wang**, Wei Bai, Junchen Jia
 
 #### Efficient Inference
 - Exploiting Student Parallelism for Low-latency GPU Inference of BERT-like Models in Online Services (Technical report) \
-**Weiyan Wang**, Yilun Jin, Yiming Zhang, Victor Junqiu Wei, Han Tian, Li Chen, Kai Chen
+**Weiyan Wang**, Yilun Jin, Yiming Zhang, Victor Junqiu Wei, Han Tian, Li Chen,  Jinbao Xue, Yangyu Tao, Di Wang, Kai Chen
 - MDP: Model Decomposition and Parallelization of Vision Transformer for Distributed Edge Inference, IEEE MSN(CCF-C) \
 **Weiyan Wang**,  Yiming Zhang, Yilun Jin, Han Tian, Li Chen
 - Enabling Edge-Cloud Video Analytics for Robotics Applications, Infocom 2021(CCF-A) & full version in Trans on Cloud Computing(CCF-C)\
@@ -47,8 +48,8 @@ Yiding Wang, **Weiyan Wang**, Junxue Zhang, Junchen Jiang, Kai Chen
 Haipeng Jia, Yunquan Zhang, **Weiyan Wang**, Jianliang Xu
 
 #### Real Big Data without perfect supervision
-- BeamVQ: Aligning Space-Time Forecasting Model via Self-training on Physics-aware Metrics (Technical report)
-Hao Wu, Xingjian Shi, Ziyue Huang, Penghao Zhao, Wei Xiong, Jinbao Xue, Yangyu Tao, Xiaomeng Huang, **Weiyan Wang(Corresponding)**
+- BeamVQ: Beam Search with Vector Quantization to Mitigate Data Scarcity in Physical Spatiotemporal Forecasting (Technical report)
+Weiyan Wang, Xingjian Shi, Ruiqi Shu, Yuan Gao, Rui Ray Chen, Kun Wang, Fan Xu, Jinbao Xue, Shuaipeng Li, Yangyu Tao, Di Wang, Hao Wu, Xiaomeng Huang
 - Prometheus: Out-of-distribution Fluid Dynamics Modeling with Disentangled Graph ODE, ICML 2024（CCF-A) \
 Hao Wu, Huiyuan Wang, Kun Wang, **Weiyan Wang**, ChanganYe, Yangyu Tao, Chong Chen, Xian-Sheng Hua, Xiao Luo
 - Multi-task Learning Based Keywords Weighted Siamese Model for Semantic Retrieval, PAKDD 2023(CCF-C) \
@@ -76,7 +77,8 @@ I also have the fortune to work with some outstanding colleagues during the part
 - 2013.5——2013.7	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AMD China Research
 
 ## Professional Services and Activities
-- 2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;KDD 2025 reviewer 
+- 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Journal Sensor and Journal Electronics reviewer 
+- 2024 and 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;KDD 2025 Aug & Feb cycle reviewer 
 - 2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Globalcom Workshop AINextGenWN reviewer 
 - 2022 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ICNCIT reviewer
 - 2020 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sigcom artifact reviewer

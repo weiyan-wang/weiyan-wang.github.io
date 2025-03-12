@@ -98,7 +98,7 @@ I also have the fortune to work with some outstanding colleagues during the part
 ## Links
 - [Google Scholar](https://scholar.google.com.hk/citations?user=AYrZ5OcAAAAJ&hl=zh-CN)
 - [LinkedIn](https://www.linkedin.com/in/weiyan-wang-2227a54b/?originalSubdomain=hk)
-- Work Email: _wwangbc AT connect.ust.hk_  
+- Work Email: _neowywang AT tencent.com_  ~~_wwangbc AT connect.ust.hk_~~
 - Personal Email: _wangweiyanster AT gmail.com_
 
 Last updated on 29th September, 2024 \

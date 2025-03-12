@@ -19,7 +19,6 @@ Co-design in both System and Algorithm especially for:
 #### Efficient Training
 - HunyuanVideo: A Systematic Framework For Large Video Generative Models  (Technical report, [open source project](https://github.com/Tencent/HunyuanVideo))
 - Hunyuan-DiT: A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding (Technical report, [open source project](https://github.com/Tencent/HunyuanDiT)) \
-Zhimin Li, Jianwei Zhang, Qin Lin, Jiangfeng Xiong, Yanxin Long, Xinchi Deng, Yingfang Zhang, Xingchao Liu, Minbin Huang, Zedong Xiao, Dayou Chen, Jiajun He, Jiahao Li, Wenyue Li, Chen Zhang, Rongwei Quan, Jianxiang Lu, Jiabin Huang, Xiaoyan Yuan, Xiaoxiao Zheng, Yixuan Li, Jihong Zhang, Chao Zhang, Meng Chen, Jie Liu, Zheng Fang, **Weiyan Wang**, Jinbao Xue, Yangyu Tao, Jianchen Zhu, Kai Liu, Sihuan Lin, Yifu Sun, Yun Li, Dongdong Wang, Mingtao Chen, Zhichao Hu, Xiao Xiao, Yan Chen, Yuhong Liu, Wei Liu, Di Wang, Yong Yang, Jie Jiang, Qinglin Lu
 - Surge Phenomenon in Optimal Learning Rate and Batch Size Scaling NeurIPS 2024(CCF-A)\
 Shuaipeng Li, Penghao Zhao, Hailin Zhang, Samm Sun, Hao Wu, Dian Jiao, **Weiyan Wang**, Chengjun Liu, Zheng Fang, Jinbao Xue, Yangyu Tao, Bin CUI, Di Wang
 - Addressing Network Bottlenecks with Divide-and-Shuffle Synchronization for Distributed DNN Training, Infocom 2022(CCF-A) \
@@ -49,7 +48,7 @@ Haipeng Jia, Yunquan Zhang, **Weiyan Wang**, Jianliang Xu
 
 #### Real Big Data without perfect supervision
 - BeamVQ: Beam Search with Vector Quantization to Mitigate Data Scarcity in Physical Spatiotemporal Forecasting (Technical report)
-Weiyan Wang, Xingjian Shi, Ruiqi Shu, Yuan Gao, Rui Ray Chen, Kun Wang, Fan Xu, Jinbao Xue, Shuaipeng Li, Yangyu Tao, Di Wang, Hao Wu, Xiaomeng Huang
+**Weiyan Wang**, Xingjian Shi, Ruiqi Shu, Yuan Gao, Rui Ray Chen, Kun Wang, Fan Xu, Jinbao Xue, Shuaipeng Li, Yangyu Tao, Di Wang, Hao Wu, Xiaomeng Huang
 - Prometheus: Out-of-distribution Fluid Dynamics Modeling with Disentangled Graph ODE, ICML 2024（CCF-A) \
 Hao Wu, Huiyuan Wang, Kun Wang, **Weiyan Wang**, ChanganYe, Yangyu Tao, Chong Chen, Xian-Sheng Hua, Xiao Luo
 - Multi-task Learning Based Keywords Weighted Siamese Model for Semantic Retrieval, PAKDD 2023(CCF-C) \

@@ -1,5 +1,5 @@
 # _Weiyan Wang_
-<img align="left" width = "130" height = "160"  src="https://raw.githubusercontent.com/weiyan-wang/weiyan-wang.github.io/main/self.png"/>
+<img align="left" width = "130" height = "160"  src="https://raw.githubusercontent.com/weiyan-wang/weiyan-wang.github.io/main/self.jpeg"/>
 
 Hi there! My name is Weiyan Wang(王伟俨). Currently,  I am working for Tencent, where I fortunately get supports from [Project Up(青云计划, 原技术大咖)](https://join.qq.com/qingyun.html).  I focus on the **co-design of both system and algorithm** for large scale machine learning system. By exploring the large design space combining system and algorithm, I try to find a better way to make the big models trained on big data really happen.
 

@@ -31,7 +31,7 @@ Jiacheng Xia, Gaoxiong Zeng, Junxue Zhang, **Weiyan Wang**, Wei Bai, Junchen Jia
   Hao Wang, Jingrong Chen, Xinchen Wan, Han Tian, Jiacheng Xia, Gaoxiong Zeng, **Weiyan Wang**, Kai Chen, Wei Bai, Junchen Jiang
 
 #### Efficient Inference
-- Exploiting Student Parallelism for Low-latency GPU Inference of BERT-like Models in Online Services (Technical report) \
+- Exploiting Student Parallelism for Low-latency GPU Inference of BERT-like Models in Online Services, KDD 2025(CCF-A) \
 **Weiyan Wang**, Yilun Jin, Yiming Zhang, Victor Junqiu Wei, Han Tian, Li Chen,  Jinbao Xue, Yangyu Tao, Di Wang, Kai Chen
 - MDP: Model Decomposition and Parallelization of Vision Transformer for Distributed Edge Inference, IEEE MSN(CCF-C) \
 **Weiyan Wang**,  Yiming Zhang, Yilun Jin, Han Tian, Li Chen
@@ -76,8 +76,10 @@ I also have the fortune to work with some outstanding colleagues during the part
 - 2013.5——2013.7	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AMD China Research
 
 ## Professional Services and Activities
-- 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Journal Sensor and Journal Electronics reviewer 
-- 2024 and 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;KDD 2025 Aug & Feb cycle reviewer 
+- 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NeurIPS
+- 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Journal Sensor and Journal Electronics reviewer
+- 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;KDD 
+- 2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;KDD
 - 2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Globalcom Workshop AINextGenWN reviewer 
 - 2022 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ICNCIT reviewer
 - 2020 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sigcom artifact reviewer
@@ -101,5 +103,5 @@ I also have the fortune to work with some outstanding colleagues during the part
 - Work Email: _neowywang AT tencent.com_  ~~_wwangbc AT connect.ust.hk_~~
 - Personal Email: _wangweiyanster AT gmail.com_
 
-Last updated on 12nd March, 2025 \
+Last updated on 16th May, 2025 \
 created on 4th Jan, 2022

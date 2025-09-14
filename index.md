@@ -18,8 +18,8 @@ Co-design in both System and Algorithm especially for:
 
 #### Efficient Training
 - HunyuanVideo: A Systematic Framework For Large Video Generative Models  (Technical report, [open source project](https://github.com/Tencent/HunyuanVideo))
-- Hunyuan-DiT: A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding (Technical report, [open source project](https://github.com/Tencent/HunyuanDiT)) \
-- Surge Phenomenon in Optimal Learning Rate and Batch Size Scaling NeurIPS 2024(CCF-A)\
+- Hunyuan-DiT: A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding (Technical report, [open source project](https://github.com/Tencent/HunyuanDiT))
+- Surge Phenomenon in Optimal Learning Rate and Batch Size Scaling NeurIPS 2024(CCF-A) \
 Shuaipeng Li, Penghao Zhao, Hailin Zhang, Samm Sun, Hao Wu, Dian Jiao, **Weiyan Wang**, Chengjun Liu, Zheng Fang, Jinbao Xue, Yangyu Tao, Bin CUI, Di Wang
 - Addressing Network Bottlenecks with Divide-and-Shuffle Synchronization for Distributed DNN Training, Infocom 2022(CCF-A) \
   **Weiyan Wang**, Cengguang Zhang, Liu Yang, Kai Chen, Kun Tan
@@ -37,7 +37,7 @@ Jiacheng Xia, Gaoxiong Zeng, Junxue Zhang, **Weiyan Wang**, Wei Bai, Junchen Jia
 **Weiyan Wang**,  Yiming Zhang, Yilun Jin, Han Tian, Li Chen
 - Enabling Edge-Cloud Video Analytics for Robotics Applications, Infocom 2021(CCF-A) & full version in Trans on Cloud Computing(CCF-C)\
 Yiding Wang, **Weiyan Wang**, Duowen Liu, Xin Jin, Junchen Jiang, Kai Chen
-- Bridging the edge-cloud barrier for real-time advanced vision analytics, Hotcloud 2019(CCF-C)\
+- Bridging the edge-cloud barrier for real-time advanced vision analytics, Hotcloud 2019(CCF-C) \
 Yiding Wang, **Weiyan Wang**, Junxue Zhang, Junchen Jiang, Kai Chen
 - CLSIFT: An Optimization Study of the Scale Invariance Feature Transform on GPUs, HPCC 2013(CCF-C) \
 **Weiyan Wang**, Yunquan Zhang, Guoping Long, Shengen Yan, Haipeng Jia

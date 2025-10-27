@@ -17,7 +17,8 @@ Co-design in both System and Algorithm especially for:
 ## Publications
 
 #### Efficient Training
-- HunyuanVideo: A Systematic Framework For Large Video Generative Models  (Technical report, [open source project](https://github.com/Tencent/HunyuanVideo))
+- HunyuanImage-3.0: A Powerful Native Multimodal Model for Image Generation (Technical report, [open source project](https://github.com/Tencent-Hunyuan/HunyuanImage-3.0))
+- HunyuanVideo: A Systematic Framework For Large Video Generative Models (Technical report, [open source project](https://github.com/Tencent/HunyuanVideo))
 - Hunyuan-DiT: A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding (Technical report, [open source project](https://github.com/Tencent/HunyuanDiT))
 - Surge Phenomenon in Optimal Learning Rate and Batch Size Scaling NeurIPS 2024(CCF-A) \
 Shuaipeng Li, Penghao Zhao, Hailin Zhang, Samm Sun, Hao Wu, Dian Jiao, **Weiyan Wang**, Chengjun Liu, Zheng Fang, Jinbao Xue, Yangyu Tao, Bin CUI, Di Wang

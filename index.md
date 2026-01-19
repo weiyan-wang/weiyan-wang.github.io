@@ -5,11 +5,11 @@ Hi there! My name is Weiyan Wang(王伟俨). Currently,  I am working for Tencen
 
 
 ## Brief Biography
-I am working as a senior R&D engineer in Machine Learning Platform Department(MLPD), Tencent. Before that, I obtained my the PhD. degree in [Computer Science and Engineering Department](https://cse.hkust.edu.hk/), Hong Kong University of Science and Technology, advised by [Prof. Kai Chen](https://cse.hkust.edu.hk/~kaichen/). I have received my M.Phil. degree on Computer Software and Theory from [Institution of Software, Chinese Academy of Sciences](http://english.is.cas.cn/) under the supervision of [Prof. Yunquan Zhang](http://www.carch.ac.cn/yjdw/yjy/201906/t20190628_497178.html) and [Dr. Guoping Long](http://people.ucas.ac.cn/~0026886). My B.Eng. degree in Computer Science and Technology is from [Huazhong University of Science and Technology](http://english.hust.edu.cn/).
+I am working as a senior R&D engineer in Technology and Engineering Group, Tencent. Before that, I obtained my the PhD. degree in [Computer Science and Engineering Department, Hong Kong University of Science and Technology](https://cse.hkust.edu.hk/), advised by [Prof. Kai Chen](https://cse.hkust.edu.hk/~kaichen/). I have received my M.Phil. degree on Computer Software and Theory from [Institution of Software, Chinese Academy of Sciences](http://english.is.cas.cn/) under the supervision of [Prof. Yunquan Zhang](http://www.carch.ac.cn/yjdw/yjy/201906/t20190628_497178.html) and [Dr. Guoping Long](http://people.ucas.ac.cn/~0026886). My B.Eng. degree in Computer Science and Technology is from [Huazhong University of Science and Technology](http://english.hust.edu.cn/).
 
 ## Research Interests
 Co-design in both System and Algorithm especially for:
-- **Efficient big model training on big data**
+- **Efficient large model training on big data**
 - **Efficient model inference for real-time requirements**
 - **Real big data without perfect supervision** \
   e.g. semi-supervised, unsupervised, noisy, out-of-distribution and sparse reward
@@ -17,6 +17,7 @@ Co-design in both System and Algorithm especially for:
 ## Publications
 
 #### Efficient Training
+- HunyuanVideo-1.5: A leading lightweight video generation model(Technical report, [open source project](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5))
 - HunyuanImage-3.0: A Powerful Native Multimodal Model for Image Generation (Technical report, [open source project](https://github.com/Tencent-Hunyuan/HunyuanImage-3.0))
 - HunyuanVideo: A Systematic Framework For Large Video Generative Models (Technical report, [open source project](https://github.com/Tencent/HunyuanVideo))
 - Hunyuan-DiT: A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding (Technical report, [open source project](https://github.com/Tencent/HunyuanDiT))
@@ -79,7 +80,7 @@ I also have the fortune to work with some outstanding colleagues during the part
 ## Professional Services and Activities
 - 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NeurIPS Reviewer
 - 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Journal Reviewer: Performance Evaluation, Sensor, and Electronics
-- 2024-2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;KDD Commendable Reviewer
+- 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;KDD Commendable Reviewer
 - 2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Globalcom Workshop AINextGenWN reviewer 
 - 2022 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ICNCIT reviewer
 - 2020 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sigcom artifact reviewer
@@ -103,5 +104,5 @@ I also have the fortune to work with some outstanding colleagues during the part
 - Work Email: _neowywang AT tencent.com_  ~~_wwangbc AT connect.ust.hk_~~
 - Personal Email: _wangweiyanster AT gmail.com_
 
-Last updated on 16th May, 2025 \
+Last updated on 19th Jan, 2026 \
 created on 4th Jan, 2022

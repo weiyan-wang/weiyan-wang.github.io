@@ -1,0 +1,41 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "WebFetch(domain:api.github.com)",
+      "Bash(curl:*)",
+      "Bash(unzip:*)",
+      "Bash(rsync:*)",
+      "Bash(ls:*)",
+      "Bash(clang++:*)",
+      "Bash(xargs -I{} {} --version)",
+      "Bash(~/.rbenv/bin/rbenv install:*)",
+      "Bash(find:*)",
+      "Bash(sw_vers:*)",
+      "Bash(node:*)",
+      "Bash(~/.rbenv/versions/3.3.10/bin/ruby:*)",
+      "Bash(gem install:*)",
+      "Bash(gem list:*)",
+      "Bash(/opt/miniconda3/bin/ruby:*)",
+      "Bash(GEM_HOME=\"$HOME/jekyll_gems3\" GEM_PATH=\"$HOME/jekyll_gems3\" /opt/miniconda3/bin/gem install:*)",
+      "Bash(PATH=\"$HOME/local/bin:$PATH\" GEM_HOME=\"$HOME/jekyll_gems3\" GEM_PATH=\"$HOME/jekyll_gems3\" /opt/miniconda3/bin/gem install:*)",
+      "Bash(PATH=\"/opt/miniconda3/bin:$HOME/local/bin:/usr/bin:/bin:/usr/sbin:/sbin\" GEM_HOME=\"$HOME/jekyll_gems3\" GEM_PATH=\"$HOME/jekyll_gems3\" /opt/miniconda3/bin/gem install:*)",
+      "Bash(/opt/miniconda3/bin/arm64-apple-darwin20.0.0-clang:*)",
+      "Bash(PATH=\"/opt/miniconda3/bin:$HOME/local/bin:/usr/bin:/bin:/usr/sbin:/sbin\" GEM_HOME=\"$HOME/jekyll_gems3\" GEM_PATH=\"$HOME/jekyll_gems3\" CONDA_BUILD_SYSROOT=\"$SDK\" SDKROOT=\"$SDK\" CFLAGS=\"-isysroot $SDK -isystem $SDK/usr/include\" LDFLAGS=\"-isysroot $SDK -L$SDK/usr/lib\" CPPFLAGS=\"-isysroot $SDK -isystem $SDK/usr/include\" /opt/miniconda3/bin/gem install:*)",
+      "Bash(PATH=\"/opt/miniconda3/bin:$HOME/local/bin:/usr/bin:/bin\" make:*)",
+      "Bash(ln:*)",
+      "Bash(PATH=\"/opt/miniconda3/bin:/usr/bin:/bin\" make:*)",
+      "Bash(SDK=/Library/Developer/CommandLineTools/SDKs/MacOSX26.2.sdk\ngrep -n \"^LDFLAGS\\\\|^DLDFLAGS\" \"/opt/miniconda3/share/rubygems/gems/eventmachine-1.2.7/ext/Makefile\")",
+      "Bash(rm:*)",
+      "Bash(bash:*)",
+      "Bash(/tmp/serve_jekyll.sh:*)",
+      "Bash(export:*)",
+      "Bash(GEM_HOME=/opt/miniconda3/share/rubygems GEM_PATH=/opt/miniconda3/share/rubygems PATH=\"/opt/miniconda3/bin:/usr/bin:/bin:/usr/sbin:/sbin\" /opt/miniconda3/bin/gem install:*)",
+      "Bash(open:*)",
+      "Bash(pkill:*)",
+      "Bash(grep:*)",
+      "Bash(bundle:*)"
+    ]
+  }
+}

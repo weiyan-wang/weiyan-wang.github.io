@@ -1,0 +1,7 @@
+# Local override config for preview - disables plugins not available locally
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-redirect-from

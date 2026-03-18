@@ -7,12 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-<p style="font-size: 1.4em; font-style: italic; color: #555; text-align: center; border-left: none; margin: 0.8em 0 1.2em; padding: 0.5em 0; border-top: 1px solid #ddd; border-bottom: 1px solid #ddd;">
+<style>
+.motto { color: #555; border-top: 1px solid #ddd; border-bottom: 1px solid #ddd; }
+html[data-theme="dark"] .motto { color: #fff; border-top-color: #555; border-bottom-color: #555; }
+</style>
+
+<p class="motto" style="font-size: 1.4em; font-style: italic; text-align: center; border-left: none; margin: 0.8em 0 1.2em; padding: 0.5em 0;">
 Nothing is more practical than a good theory. <span style="font-size: 0.7em; font-style: normal;">—— Kurt Lewin</span><br>
 What I cannot create, I do not understand. <span style="font-size: 0.7em; font-style: normal;">—— Richard Feynman</span>
 </p>
 
-Hi there! I am working as a senior R&D engineer with [Technology and Engineering Group, Tencent](https://www.tencent.com/en-us/business/technology-engineering.html), where I fortunately receive support from [Project Up (青云计划)](https://join.qq.com/qingyun.html). I focus on the **co-design of both system and algorithm** for large-scale machine learning systems. By exploring the large design space combining system and algorithm, I try to find better ways to make big models trained on big data really happen. I advocate the philosophy proposed by [Wang Yangming](https://en.wikipedia.org/wiki/Wang_Yangming), which regards the inner knowledge and the exterior action as one ([知行合一](https://en.wikipedia.org/wiki/Unity_of_knowledge_and_action) = Kurt Lewin's + Richard Feynman's quotes). 
+Hi there! I am working as a senior R&D engineer with [Technology and Engineering Group, Tencent](https://www.tencent.com/en-us/business/technology-engineering.html), where I fortunately receive support from [Project Up (青云计划)](https://join.qq.com/qingyun.html). I focus on the **co-design of both system and algorithm** for large-scale machine learning systems. By exploring the large design space combining system and algorithm, I try to find better ways to make big models trained on big data really happen. I advocate the philosophy proposed by [Wang Yangming](https://en.wikipedia.org/wiki/Wang_Yangming), which regards the inner knowledge and the exterior action as one ([知行合一](https://en.wikipedia.org/wiki/Unity_of_knowledge_and_action) $\approx$ Kurt Lewin's + Richard Feynman's quotes). 
+
 
 ## Brief Biography
 

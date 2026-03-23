@@ -22,14 +22,14 @@ Hi there! I am working as a senior R&D engineer with [Technology and Engineering
 
 ## Brief Biography
 
-I earned my PhD degree in [Computer Science and Engineering, Hong Kong University of Science and Technology](https://cse.hkust.edu.hk/), advised by [Prof. Kai Chen](https://cse.hkust.edu.hk/~kaichen/). I obtained my M.Phil. degree in Computer Software and Theory from [Institute of Software, Chinese Academy of Sciences](http://english.is.cas.cn/), under the supervision of [Prof. Yunquan Zhang](http://www.carch.ac.cn/yjdw/yjy/201906/t20190628_497178.html) and [Dr. Guoping Long](http://people.ucas.ac.cn/~0026886). My B.Eng. degree in Computer Science and Technology is from [Huazhong University of Science and Technology](http://english.hust.edu.cn/).
+I recieved the PhD degree from [Computer Science and Engineering, Hong Kong University of Science and Technology](https://cse.hkust.edu.hk/), advised by [Prof. Kai Chen](https://cse.hkust.edu.hk/~kaichen/). I obtained my M.Phil. degree in Computer Software and Theory from [Institute of Software, Chinese Academy of Sciences](http://english.is.cas.cn/), under the supervision of [Prof. Yunquan Zhang](http://www.carch.ac.cn/yjdw/yjy/201906/t20190628_497178.html) and [Dr. Guoping Long](http://people.ucas.ac.cn/~0026886). My B.Eng. degree in Computer Science and Technology is from [Huazhong University of Science and Technology](http://english.hust.edu.cn/).
 
 ## Research Interests
 
 Co-design in both System and Algorithm especially for:
 - **Efficient large-scale training**
 - **Efficient model inference for real-time requirements**
-- **Real big data without perfect supervision** (e.g. sparse, noisy, and out-of-distribution labels/rewards)
+- **Real big data without perfect supervision** (e.g. sparse/scarce, noisy, and out-of-distribution labels/rewards)
 
 ## Selected Publications
 ### HY Multi-Modal Seriers

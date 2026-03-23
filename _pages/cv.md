@@ -17,36 +17,30 @@ Education
   * Advisors: [Prof. Yunquan Zhang](http://www.carch.ac.cn/yjdw/yjy/201906/t20190628_497178.html) and [Dr. Guoping Long](http://people.ucas.ac.cn/~0026886)
 * **B.Eng.** in Computer Science and Technology, [Huazhong University of Science and Technology](http://english.hust.edu.cn/)
 
-Work Experience
+Intern/Work Experience
 ======
-* **2022.3 – Present**: Senior R&D Engineer (HY Team)
+* **2024.4 – Present**: Senior R&D Engineer (HY Team)
   * [Technology and Engineering Group, Tencent](https://www.tencent.com/en-us/business/technology-engineering.html)
 
-* **2020.6 – 2022.3**: Research Intern
+* **2020.6 – 2022.3**: Research Intern (Industry-Academia Collaboration)
   * WeChat Search, Tencent
 
-* **2019.9 – 2020.1**: Research Intern
+* **2019.9 – 2020.1**: Research Intern and Project Co-ordinator (Supervised by Prof. Kai Chen)
   * Pengcheng Lab (PCL), Shenzhen
 
-* **2015.9 – 2022.3**: PhD Student (also internships below)
-  * HKUST, CSE Department
-
-* **2015.9 – 2016.9**: Research Intern
+* **2015.9 – 2016.9**: Research Intern and Project Co-ordinator (Supervised by Prof. Kai Chen)
   * Clustar (clustar.ai) — Federated Learning Accelerating
-
-* **2019.9 – 2020.1** (overlap with PhD): Research Intern
-  * Pengcheng Lab
 
 * **2014.7 – 2015.9**: Full-time Software Engineer
   * Headquarter, Bank of China
 
-* **2014.4 – 2014.6**: Research Intern
+* **2014.4 – 2014.6**: Research Intern（Mentored by Wenzhi Liu, under Dr. Kai Yu）
   * IDL, Baidu
 
-* **2013.8 – 2013.10**: Intern
+* **2013.8 – 2013.10**: Intern (Mentored by Zhen Wang, under Dr. Wensong Zhang)
   * Core System, Taobao (Alibaba)
 
-* **2013.5 – 2013.7**: Research Intern
+* **2013.5 – 2013.7**: Research Intern(Mentored by Prof. Yi Xu, under Prof. Yuan Xie)
   * AMD China Research
 
 Projects and Collaborations

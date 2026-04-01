@@ -22,25 +22,25 @@ Intern/Work Experience
 * **2024.4 – Present**: Senior R&D Engineer (HY Team)
   * [Technology and Engineering Group, Tencent](https://www.tencent.com/en-us/business/technology-engineering.html)
 
-* **2020.6 – 2022.3**: Research Intern (Industry-Academia Collaboration)
+* **2020.6 – 2022.3**: Research Intern (Industry-Academia Collaboration via [WHAT Lab](https://bdi.hkust.edu.hk/WHATLab/index.html))
   * WeChat Search, Tencent
 
-* **2019.9 – 2020.1**: Research Intern and Project Co-ordinator (Supervised by Prof. Kai Chen)
+* **2019.9 – 2020.1**: Research Intern and Project Co-ordinator (Mentored by Prof. Kai Chen)
   * Pengcheng Lab (PCL), Shenzhen
 
-* **2015.9 – 2016.9**: Research Intern and Project Co-ordinator (Supervised by Prof. Kai Chen)
+* **2015.9 – 2016.9**: Research Intern and Project Co-ordinator (Mentored by Prof. Kai Chen)
   * Clustar (clustar.ai) — Federated Learning Accelerating
 
 * **2014.7 – 2015.9**: Full-time Software Engineer
   * Headquarter, Bank of China
 
-* **2014.4 – 2014.6**: Research Intern（Mentored by Wenzhi Liu, under Dr. Kai Yu）
+* **2014.4 – 2014.6**: Research Intern（Mentored by [Wenzhi Liu](https://www.infoq.cn/article/2017/06/parallel-compu-artificial-intell), under [Dr. Kai Yu](https://scholar.google.com/citations?user=y5zkBeMAAAAJ&hl=en)）
   * IDL, Baidu
 
-* **2013.8 – 2013.10**: Intern (Mentored by Zhen Wang, under Dr. Wensong Zhang)
+* **2013.8 – 2013.10**: Intern (Mentored by [Zhen Wang](https://www.infoq.cn/news/2012/09/taobao-jvm/), under [Dr. Wensong Zhang](https://scholar.google.com/citations?hl=en&user=OAyrdg4AAAAJ&view_op=list_works))
   * Core System, Taobao (Alibaba)
 
-* **2013.5 – 2013.7**: Research Intern(Mentored by Prof. Yi Xu, under Prof. Yuan Xie)
+* **2013.5 – 2013.7**: Research Intern(Mentored by [Prof. Yi Xu](https://scholar.google.com/citations?user=AsJTwj0AAAAJ&hl), under [Prof. Yuan Xie](https://scholar.google.com/citations?user=dK2ZuDcAAAAJ&hl=en))
   * AMD China Research
 
 Projects and Collaborations

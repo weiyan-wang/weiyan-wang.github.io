@@ -88,7 +88,7 @@ See the full [Publications](/publications/) page for all 23 papers.
 ### Open Source Code Contributor
 * [TransferQueue](https://github.com/Ascend/TransferQueue)
 * HY Multi-modal: [HunyuanVideo-1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5), [HunyuanImage-3.0](https://github.com/Tencent-Hunyuan/HunyuanImage-3.0), [HunyuanVideo](https://github.com/Tencent/HunyuanVideo), [Hunyuan-DiT](https://github.com/Tencent/HunyuanDiT)
-*  [OpenCV](https://opencv.org/) Haar face detection on the GPU ([Tsinghua Science and Technology](https://doi.org/10.1109/TST.2012.6216758), [HPCC](https://doi.org/10.1109/hpcc.2012.60))
+*  [OpenCV](https://opencv.org/): Haar face detection on the GPU ([Tsinghua Science and Technology](https://doi.org/10.1109/TST.2012.6216758), [HPCC](https://doi.org/10.1109/hpcc.2012.60))
 
 ### CSDN Forum Moderator
 * 2013–2018 &nbsp;&nbsp; [CSDN OpenCL](https://bbs.csdn.net/forums/Heterogeneous) Forum Moderator

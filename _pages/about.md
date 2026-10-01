@@ -34,13 +34,13 @@ Co-design in both System and Algorithm especially for:
 ## Selected Publications
 ### HY Multi-Modal Seriers
 - **HunyuanVideo-1.5: A Leading Lightweight Video Generation Model**, Technical Report 2025 \
-  Tencent Hunyuan Team (incl. **Weiyan Wang**) | [GitHub](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5)
+  **Core Contributor: Weiyan Wang** | [GitHub](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5)
 - **HunyuanImage-3.0: A Powerful Native Multimodal Model for Image Generation**, Technical Report 2025 \
-  Tencent Hunyuan Team (incl. **Weiyan Wang**) | [GitHub](https://github.com/Tencent-Hunyuan/HunyuanImage-3.0)
+  **Contributor: Weiyan Wang** | [GitHub](https://github.com/Tencent-Hunyuan/HunyuanImage-3.0)
 - **HunyuanVideo: A Systematic Framework For Large Video Generative Models**, Technical Report 2024 \
-  Tencent Hunyuan Team (incl. **Weiyan Wang**) | [GitHub](https://github.com/Tencent/HunyuanVideo)
+  **Core Contributor: Weiyan Wang** | [GitHub](https://github.com/Tencent/HunyuanVideo)
 - **Hunyuan-DiT: A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding**, Technical Report 2024 \
-  Tencent Hunyuan Team (incl. **Weiyan Wang**) | [GitHub](https://github.com/Tencent/HunyuanDiT)
+  **Core Contributor: Weiyan Wang** | [GitHub](https://github.com/Tencent/HunyuanDiT)
 
 ### the Selected Works for Efficient Training
 - **Surge Phenomenon in Optimal Learning Rate and Batch Size Scaling**, NeurIPS 2024(CCF-A) \
@@ -75,14 +75,21 @@ Hao Wu, Huiyuan Wang, Kun Wang, **Weiyan Wang**, ChanganYe, Yangyu Tao, Chong Ch
 See the full [Publications](/publications/) page for all 22 papers.
 
 ## Professional Services
+### Reviewer
+* 2027 &nbsp;&nbsp; KDD Reviewer
 * 2025 &nbsp;&nbsp; NeurIPS Reviewer
-* 2025 &nbsp;&nbsp; Journal Reviewer: Performance Evaluation, Sensor, and Electronics
+* 2025 &nbsp;&nbsp; Journal Reviewer: Performance Evaluation
 * 2025 &nbsp;&nbsp; KDD Commendable Reviewer
-* 2023 &nbsp;&nbsp; Globalcom Workshop AINextGenWN Reviewer
-* 2022 &nbsp;&nbsp; ICNCIT Reviewer
+* 2023 &nbsp;&nbsp; Globalcom （AINextGenWN Workshop）  Reviewer
 * 2020 &nbsp;&nbsp; Sigcomm Artifact Reviewer
+
+### Open Source Code Contributor
+* [TransferQueue](https://github.com/Ascend/TransferQueue)
+* HY Multi-modal: [HunyuanVideo-1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5), [HunyuanImage-3.0](https://github.com/Tencent-Hunyuan/HunyuanImage-3.0), [HunyuanVideo](https://github.com/Tencent/HunyuanVideo), [Hunyuan-DiT](https://github.com/Tencent/HunyuanDiT)
+*  [OpenCV](https://opencv.org/) Haar face detection on the GPU ([Tsinghua Science and Technology](https://doi.org/10.1109/TST.2012.6216758), [HPCC](https://doi.org/10.1109/hpcc.2012.60))
+
+### CSDN Forum Moderator
 * 2013–2018 &nbsp;&nbsp; [CSDN OpenCL](https://bbs.csdn.net/forums/Heterogeneous) Forum Moderator
-* 2011–2013 &nbsp;&nbsp; [OpenCV](https://opencv.org/) Code Contributor
 
 ## Contact
 

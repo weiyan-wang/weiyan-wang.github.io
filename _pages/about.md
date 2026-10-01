@@ -63,6 +63,8 @@ Jiacheng Xia, Gaoxiong Zeng, Junxue Zhang, **Weiyan Wang**, Wei Bai, Junchen Jia
   **Weiyan Wang**, Yunquan Zhang, Guoping Long, Shengen Yan, Haipeng Jia
 
 ### the Selected Works about Imperfect Supervision
+- **RoboAlign-R1: Distilled Multimodal Reward Alignment for Robot Video World Models**, NeurIPS 2026 (CCF-A, To appear) \
+  Hao Wu, Yuqi Li, Yuan Gao, Fan Xu, Fan Zhang, Kun Wang, Penghao Zhao, Qiufeng Wang, Yizhou Zhao, **Weiyan Wang**, Yingli Tian, Xian Wu, Xiaomeng Huang
 - **BeamVQ: Beam Search with Vector Quantization to Mitigate Data Scarcity in Physical Spatiotemporal Forecasting**, Technical Report 2024 \
   **Weiyan Wang**, Xingjian Shi, Ruiqi Shu, Yuan Gao, Rui Ray Chen, Kun Wang, Fan Xu, Jinbao Xue, Shuaipeng Li, Yangyu Tao, Di Wang, Hao Wu, Xiaomeng Huang
 - **Prometheus: Out-of-distribution Fluid Dynamics Modeling with Disentangled Graph ODE**, ICML 2024（CCF-A) \
@@ -72,7 +74,7 @@ Hao Wu, Huiyuan Wang, Kun Wang, **Weiyan Wang**, ChanganYe, Yangyu Tao, Chong Ch
 - **Efficient Two-stage Label Noise Reduction for Retrieval-based Tasks**, WSDM 2022 (CCF-B) \
   Mengmeng Kuang, **Weiyan Wang**, Zhenhong Chen, Lie Kang, Qiang Yan
 
-See the full [Publications](/publications/) page for all 22 papers.
+See the full [Publications](/publications/) page for all 23 papers.
 
 ## Professional Services
 ### Reviewer

@@ -76,7 +76,7 @@ See the full [Publications](/publications/) page for all 22 papers.
 
 ## Professional Services
 ### Reviewer
-* 2027 &nbsp;&nbsp; KDD Reviewer
+* 2026 &nbsp;&nbsp; KDD Reviewer
 * 2025 &nbsp;&nbsp; NeurIPS Reviewer
 * 2025 &nbsp;&nbsp; Journal Reviewer: Performance Evaluation
 * 2025 &nbsp;&nbsp; KDD Commendable Reviewer

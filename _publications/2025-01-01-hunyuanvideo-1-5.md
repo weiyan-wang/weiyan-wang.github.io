@@ -11,3 +11,5 @@ citation: "Tencent Hunyuan Team (including <b>Weiyan Wang</b>). &quot;HunyuanVid
 Tencent Hunyuan Team (including **Weiyan Wang**)
 
 Technical Report, 2025 | [Open Source Project](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5)
+
+To the best of my knowledge, the first large diffusion model pretrained by the **Muon optimizer**.

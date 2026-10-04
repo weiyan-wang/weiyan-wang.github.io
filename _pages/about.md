@@ -34,13 +34,14 @@ Co-design in both System and Algorithm especially for:
 ## Selected Publications
 ### HY Multi-Modal Seriers
 - **HunyuanVideo-1.5: A Leading Lightweight Video Generation Model**, Technical Report 2025 \
-  **Core Contributor: Weiyan Wang** | [GitHub](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5)
+  Core Contributor: **Weiyan Wang** | [GitHub](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5) \
+  To the best of my knowledge, the first large diffusion model pretrained by the **Muon optimizer**.
 - **HunyuanImage-3.0: A Powerful Native Multimodal Model for Image Generation**, Technical Report 2025 \
   **Contributor: Weiyan Wang** | [GitHub](https://github.com/Tencent-Hunyuan/HunyuanImage-3.0)
 - **HunyuanVideo: A Systematic Framework For Large Video Generative Models**, Technical Report 2024 \
-  **Core Contributor: Weiyan Wang** | [GitHub](https://github.com/Tencent/HunyuanVideo)
+  Core Contributor: **Weiyan Wang** | [GitHub](https://github.com/Tencent/HunyuanVideo)
 - **Hunyuan-DiT: A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding**, Technical Report 2024 \
-  **Core Contributor: Weiyan Wang** | [GitHub](https://github.com/Tencent/HunyuanDiT)
+  Core Contributor: **Weiyan Wang** | [GitHub](https://github.com/Tencent/HunyuanDiT)
 
 ### the Selected Works for Efficient Training
 - **Surge Phenomenon in Optimal Learning Rate and Batch Size Scaling**, NeurIPS 2024(CCF-A) \
@@ -98,6 +99,7 @@ See the full [Publications](/publications/) page for all 23 papers.
 - Work Email: neowywang AT tencent.com ~~wwangbc@connect.ust.hk~~
 - Personal Email: wangweiyanster AT gmail.com
 - [Google Scholar](https://scholar.google.com.hk/citations?user=AYrZ5OcAAAAJ&hl=zh-CN)
+- [GitHub](https://github.com/OutstanderWang)
 - [LinkedIn](https://www.linkedin.com/in/weiyan-wang-2227a54b/)
 
 ## Miscellaneous

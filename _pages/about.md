@@ -60,9 +60,9 @@ Jiacheng Xia, Gaoxiong Zeng, Junxue Zhang, **Weiyan Wang**, Wei Bai, Junchen Jia
   **Weiyan Wang**, Yilun Jin, Yiming Zhang, Victor Junqiu Wei, Han Tian, Li Chen, Jinbao Xue, Yangyu Tao, Di Wang, Kai Chen
 - **Enabling Edge-Cloud Video Analytics for Robotics Applications**, Infocom 2021 (CCF-A) \
   Yiding Wang, **Weiyan Wang**, Duowen Liu, Xin Jin, Junchen Jiang, Kai Chen
-- **CLSIFT: An Optimization Study of the Scale Invariance Feature Transform on GPUs**, HPCC 2013 (CCF-C, GPU kernel) \
+- **CLSIFT: An Optimization Study of the Scale Invariance Feature Transform on GPUs**, HPCC 2013 (CCF-C, GPU kernel optimization) \
   **Weiyan Wang**, Yunquan Zhang, Guoping Long, Shengen Yan, Haipeng Jia
-- **Parallelization and Performance Optimization on Face Detection Algorithm with OpenCL: A Case Study**, Tsinghua Science and Technology (SCI Journal, GPU kernel) \
+- **Parallelization and Performance Optimization on Face Detection Algorithm with OpenCL: A Case Study**, Tsinghua Science and Technology (SCI Journal, GPU kernel optimization) \
   **Weiyan Wang**, Yunquan Zhang, Shengen Yan, Ying Zhang, Haipeng Jia
 
 ### the Selected Works about Imperfect Supervision

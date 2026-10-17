@@ -70,7 +70,7 @@ Jiacheng Xia, Gaoxiong Zeng, Junxue Zhang, **Weiyan Wang**, Wei Bai, Junchen Jia
   Hao Wu, Xingjian Shi, **Weiyan Wang**(Corresponding)
 - **RoboAlign-R1: Distilled Multimodal Reward Alignment for Robot Video World Models**, NeurIPS 2026 (CCF-A, To appear) \
   Hao Wu, Yuqi Li, Yuan Gao, Fan Xu, Fan Zhang, Kun Wang, Penghao Zhao, Qiufeng Wang, Yizhou Zhao, **Weiyan Wang**(Corresponding), Yingli Tian, Xian Wu, Xiaomeng Huang
-- **Prometheus: Out-of-distribution Fluid Dynamics Modeling with Disentangled Graph ODE**, ICML 2024（CCF-A) \
+- **Prometheus: Out-of-distribution Fluid Dynamics Modeling with Disentangled Graph ODE**, ICML 2024（CCF-A） \
 Hao Wu, Huiyuan Wang, Kun Wang, **Weiyan Wang**, ChanganYe, Yangyu Tao, Chong Chen, Xian-Sheng Hua, Xiao Luo
 - **Multi-task Learning Based Keywords Weighted Siamese Model for Semantic Retrieval**, PAKDD 2023 (CCF-C) \
   Mengmeng Kuang, Zhenhong Chen, **Weiyan Wang** (Corresponding), Lie Kang, Qiang Yan (Wechat), Min Tang, Penghui Hao

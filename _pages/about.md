@@ -67,7 +67,7 @@ Jiacheng Xia, Gaoxiong Zeng, Junxue Zhang, **Weiyan Wang**, Wei Bai, Junchen Jia
 
 ### the Selected Works about Imperfect Supervision
 - **BeamVQ: Metric-Guided Latent Search for Physical Spatiotemporal Forecasting**, Technical Report 2026 \
-  Hao Wu, Xingjian Shi, **Weiyan Wang**(Corresponding)
+  Hao Wu, Xingjian Shi, **Weiyan Wang** (Corresponding)
 - **RoboAlign-R1: Distilled Multimodal Reward Alignment for Robot Video World Models**, NeurIPS 2026 (CCF-A, To appear) \
   Hao Wu, Yuqi Li, Yuan Gao, Fan Xu, Fan Zhang, Kun Wang, Penghao Zhao, Qiufeng Wang, Yizhou Zhao, **Weiyan Wang**(Corresponding), Yingli Tian, Xian Wu, Xiaomeng Huang
 - **Prometheus: Out-of-distribution Fluid Dynamics Modeling with Disentangled Graph ODE**, ICML 2024（CCF-A）\

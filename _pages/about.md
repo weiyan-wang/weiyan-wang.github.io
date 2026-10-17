@@ -22,7 +22,7 @@ Hi there! I am a senior R&D engineer at [Hunyuan, Tencent](https://hunyuan.tence
 
 ## Brief Biography
 
-Currently, I work in Tencent's Large Model Department, focusing on improving the scalability and efficiency of RL systems. My work also includes accelerating pretraining phase and improving sample efficienc for the large models, especially the multimodal generative models.
+Currently, I work in Tencent's Large Model Department, focusing on improving the scalability and efficiency of RL training. My work also includes accelerating pretraining phase and improving sample efficienc for the large models, especially the multimodal generative models.
 
 I recieved my Ph.D. from [Computer Science and Engineering, Hong Kong University of Science and Technology](https://cse.hkust.edu.hk/), advised by [Prof. Kai Chen](https://cse.hkust.edu.hk/~kaichen/). I obtained my M.Phil. degree in Computer Software and Theory from [Institute of Software, Chinese Academy of Sciences](http://english.is.cas.cn/), under the supervision of [Prof. Yunquan Zhang](http://www.carch.ac.cn/yjdw/yjy/201906/t20190628_497178.html) and [Dr. Guoping Long](http://people.ucas.ac.cn/~0026886). My B.Eng. degree in Computer Science and Technology is from [Huazhong University of Science and Technology](http://english.hust.edu.cn/).
 
@@ -70,7 +70,7 @@ Jiacheng Xia, Gaoxiong Zeng, Junxue Zhang, **Weiyan Wang**, Wei Bai, Junchen Jia
   Hao Wu, Xingjian Shi, **Weiyan Wang**(Corresponding)
 - **RoboAlign-R1: Distilled Multimodal Reward Alignment for Robot Video World Models**, NeurIPS 2026 (CCF-A, To appear) \
   Hao Wu, Yuqi Li, Yuan Gao, Fan Xu, Fan Zhang, Kun Wang, Penghao Zhao, Qiufeng Wang, Yizhou Zhao, **Weiyan Wang**(Corresponding), Yingli Tian, Xian Wu, Xiaomeng Huang
-- **Prometheus: Out-of-distribution Fluid Dynamics Modeling with Disentangled Graph ODE**, ICML 2024（CCF-A） \
+- **Prometheus: Out-of-distribution Fluid Dynamics Modeling with Disentangled Graph ODE**, ICML 2024（CCF-A）\
 Hao Wu, Huiyuan Wang, Kun Wang, **Weiyan Wang**, ChanganYe, Yangyu Tao, Chong Chen, Xian-Sheng Hua, Xiao Luo
 - **Multi-task Learning Based Keywords Weighted Siamese Model for Semantic Retrieval**, PAKDD 2023 (CCF-C) \
   Mengmeng Kuang, Zhenhong Chen, **Weiyan Wang** (Corresponding), Lie Kang, Qiang Yan (Wechat), Min Tang, Penghui Hao

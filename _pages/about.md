@@ -17,12 +17,14 @@ Nothing is more practical than a good theory. <span style="font-size: 0.7em; fon
 What I cannot create, I do not understand. <span style="font-size: 0.7em; font-style: normal;">—— Richard Feynman</span>
 </p>
 
-Hi there! I am working as a senior R&D engineer with [Technology and Engineering Group, Tencent](https://www.tencent.com/en-us/business/technology-engineering.html), where I fortunately receive support from [Project Up (青云计划)](https://join.qq.com/qingyun.html). I focus on the **co-design of both system and algorithm** for large-scale machine learning systems. By exploring the large design space combining system and algorithm, I try to find better ways to make big models trained on big data really happen. I advocate the philosophy proposed by [Wang Yangming](https://en.wikipedia.org/wiki/Wang_Yangming), which regards the inner knowledge (i.e. abstract theory) and the exterior actions(i.e. concrete practices) as one ([知行合一](https://en.wikipedia.org/wiki/Unity_of_knowledge_and_action)).
+Hi there! I am a senior R&D engineer at [Hunyuan, Tencent](https://hunyuan.tencent.com/), where I fortunately get support from [Project Up (青云计划)](https://join.qq.com/qingyun.html). I focus on the **co-design of both systems and algorithms** for large-scale machine learning systems. By exploring the large design space combining system and algorithm, I try to find better ways to make big models trained on big data really happen. I advocate the philosophy proposed by [Wang Yangming](https://en.wikipedia.org/wiki/Wang_Yangming), which regards the knowledge (i.e. abstract theory) and the actions(i.e. concrete practices) as one ([知行合一](https://en.wikipedia.org/wiki/Unity_of_knowledge_and_action)).
 
 
 ## Brief Biography
 
-I recieved the PhD degree from [Computer Science and Engineering, Hong Kong University of Science and Technology](https://cse.hkust.edu.hk/), advised by [Prof. Kai Chen](https://cse.hkust.edu.hk/~kaichen/). I obtained my M.Phil. degree in Computer Software and Theory from [Institute of Software, Chinese Academy of Sciences](http://english.is.cas.cn/), under the supervision of [Prof. Yunquan Zhang](http://www.carch.ac.cn/yjdw/yjy/201906/t20190628_497178.html) and [Dr. Guoping Long](http://people.ucas.ac.cn/~0026886). My B.Eng. degree in Computer Science and Technology is from [Huazhong University of Science and Technology](http://english.hust.edu.cn/).
+Currently, I work in Tencent's large model department, focusing on improving the scalability and efficiency of RL systems. My work also includes accelerating pretraining phase and improving sample efficiency for the large models, especially the multimodal generative models.
+
+I recieved my Ph.D. from [Computer Science and Engineering, Hong Kong University of Science and Technology](https://cse.hkust.edu.hk/), advised by [Prof. Kai Chen](https://cse.hkust.edu.hk/~kaichen/). I obtained my M.Phil. degree in Computer Software and Theory from [Institute of Software, Chinese Academy of Sciences](http://english.is.cas.cn/), under the supervision of [Prof. Yunquan Zhang](http://www.carch.ac.cn/yjdw/yjy/201906/t20190628_497178.html) and [Dr. Guoping Long](http://people.ucas.ac.cn/~0026886). My B.Eng. degree in Computer Science and Technology is from [Huazhong University of Science and Technology](http://english.hust.edu.cn/).
 
 ## Research Interests
 

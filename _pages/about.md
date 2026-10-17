@@ -22,7 +22,7 @@ Hi there! I am a senior R&D engineer at [Hunyuan, Tencent](https://hunyuan.tence
 
 ## Brief Biography
 
-Currently, I work in Tencent's large model department, focusing on improving the scalability and efficiency of RL systems. My work also includes accelerating pretraining phase and improving sample efficiency for the large models, especially the multimodal generative models.
+Currently, I work in Tencent's Large Model Department, focusing on improving the scalability and efficiency of RL systems. My work also includes accelerating pretraining phase and improving sample efficienc for the large models, especially the multimodal generative models.
 
 I recieved my Ph.D. from [Computer Science and Engineering, Hong Kong University of Science and Technology](https://cse.hkust.edu.hk/), advised by [Prof. Kai Chen](https://cse.hkust.edu.hk/~kaichen/). I obtained my M.Phil. degree in Computer Software and Theory from [Institute of Software, Chinese Academy of Sciences](http://english.is.cas.cn/), under the supervision of [Prof. Yunquan Zhang](http://www.carch.ac.cn/yjdw/yjy/201906/t20190628_497178.html) and [Dr. Guoping Long](http://people.ucas.ac.cn/~0026886). My B.Eng. degree in Computer Science and Technology is from [Huazhong University of Science and Technology](http://english.hust.edu.cn/).
 
@@ -39,7 +39,7 @@ Co-design in both System and Algorithm especially for:
   Core Contributor: **Weiyan Wang** | [GitHub](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5) \
   To the best of my knowledge, the first large diffusion model pretrained by the **Muon optimizer**.
 - **HunyuanImage-3.0: A Powerful Native Multimodal Model for Image Generation**, Technical Report 2025 \
-  **Contributor: Weiyan Wang** | [GitHub](https://github.com/Tencent-Hunyuan/HunyuanImage-3.0)
+  Contributor: **Weiyan Wang** | [GitHub](https://github.com/Tencent-Hunyuan/HunyuanImage-3.0)
 - **HunyuanVideo: A Systematic Framework For Large Video Generative Models**, Technical Report 2024 \
   Core Contributor: **Weiyan Wang** | [GitHub](https://github.com/Tencent/HunyuanVideo)
 - **Hunyuan-DiT: A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding**, Technical Report 2024 \
@@ -48,7 +48,7 @@ Co-design in both System and Algorithm especially for:
 ### the Selected Works for Efficient Training
 - **Surge Phenomenon in Optimal Learning Rate and Batch Size Scaling**, NeurIPS 2024(CCF-A) \
 Shuaipeng Li, Penghao Zhao, Hailin Zhang, Samm Sun, Hao Wu, Dian Jiao, **Weiyan Wang**, Chengjun Liu, Zheng Fang, Jinbao Xue, Yangyu Tao, Bin CUI, Di Wang
-- **Addressing Network Bottlenecks with Divide-and-Shuffle Synchronization for Distributed DNN Training**, Infocom 2022 (CCF-A) \
+- **Addressing Network Bottlenecks with Divide-and-Shuffle Synchronization for Distributed DNN Training**, Infocom 2022 (CCF-A, co-design in non-convex optimization and network) \
   **Weiyan Wang**, Cengguang Zhang, Liu Yang, Kai Chen, Kun Tan
 - **Rethinking transport layer design for distributed machine learning**, APNet 2019（CCF-C）\
 Jiacheng Xia, Gaoxiong Zeng, Junxue Zhang, **Weiyan Wang**, Wei Bai, Junchen Jiang, Kai Chen
@@ -56,26 +56,26 @@ Jiacheng Xia, Gaoxiong Zeng, Junxue Zhang, **Weiyan Wang**, Wei Bai, Junchen Jia
   Qinghe Jing, **Weiyan Wang**, Junxue Zhang, Han Tian, Kai Chen
 
 ### the Selected Works for Efficient Inference
-- **Exploiting Student Parallelism for Low-latency GPU Inference of BERT-like Models in Online Services**, KDD 2025 (CCF-A) \
+- **Exploiting Student Parallelism for Low-latency GPU Inference of BERT-like Models in Online Services**, KDD 2025 (CCF-A, co-design in model and system) \
   **Weiyan Wang**, Yilun Jin, Yiming Zhang, Victor Junqiu Wei, Han Tian, Li Chen, Jinbao Xue, Yangyu Tao, Di Wang, Kai Chen
 - **Enabling Edge-Cloud Video Analytics for Robotics Applications**, Infocom 2021 (CCF-A) \
   Yiding Wang, **Weiyan Wang**, Duowen Liu, Xin Jin, Junchen Jiang, Kai Chen
-- **CLSIFT: An Optimization Study of the Scale Invariance Feature Transform on GPUs**, HPCC 2013 (CCF-C, GPU kernel optimization) \
+- **CLSIFT: An Optimization Study of the Scale Invariance Feature Transform on GPUs**, HPCC 2013 (CCF-C, GPU kernel) \
   **Weiyan Wang**, Yunquan Zhang, Guoping Long, Shengen Yan, Haipeng Jia
-- **Parallelization and Performance Optimization on Face Detection Algorithm with OpenCL: A Case Study**, Tsinghua Science and Technology (SCI Journal, GPU kernel optimization) \
+- **Parallelization and Performance Optimization on Face Detection Algorithm with OpenCL: A Case Study**, Tsinghua Science and Technology (SCI Journal, GPU kernel) \
   **Weiyan Wang**, Yunquan Zhang, Shengen Yan, Ying Zhang, Haipeng Jia
 
 ### the Selected Works about Imperfect Supervision
 - **BeamVQ: Metric-Guided Latent Search for Physical Spatiotemporal Forecasting**, Technical Report 2026 \
   Hao Wu, Xingjian Shi, **Weiyan Wang**(Corresponding)
 - **RoboAlign-R1: Distilled Multimodal Reward Alignment for Robot Video World Models**, NeurIPS 2026 (CCF-A, To appear) \
-  Hao Wu, Yuqi Li, Yuan Gao, Fan Xu, Fan Zhang, Kun Wang, Penghao Zhao, Qiufeng Wang, Yizhou Zhao, **Weiyan Wang**, Yingli Tian, Xian Wu, Xiaomeng Huang
+  Hao Wu, Yuqi Li, Yuan Gao, Fan Xu, Fan Zhang, Kun Wang, Penghao Zhao, Qiufeng Wang, Yizhou Zhao, **Weiyan Wang**(Corresponding), Yingli Tian, Xian Wu, Xiaomeng Huang
 - **Prometheus: Out-of-distribution Fluid Dynamics Modeling with Disentangled Graph ODE**, ICML 2024（CCF-A) \
 Hao Wu, Huiyuan Wang, Kun Wang, **Weiyan Wang**, ChanganYe, Yangyu Tao, Chong Chen, Xian-Sheng Hua, Xiao Luo
 - **Multi-task Learning Based Keywords Weighted Siamese Model for Semantic Retrieval**, PAKDD 2023 (CCF-C) \
-  Mengmeng Kuang, Zhenhong Chen, **Weiyan Wang** (Corresponding), Lie Kang, Qiang Yan, Min Tang, Penghui Hao
+  Mengmeng Kuang, Zhenhong Chen, **Weiyan Wang** (Corresponding), Lie Kang, Qiang Yan (Wechat), Min Tang, Penghui Hao
 - **Efficient Two-stage Label Noise Reduction for Retrieval-based Tasks**, WSDM 2022 (CCF-B) \
-  Mengmeng Kuang, **Weiyan Wang**, Zhenhong Chen, Lie Kang, Qiang Yan
+  Mengmeng Kuang, **Weiyan Wang**, Zhenhong Chen, Lie Kang, Qiang Yan (Wechat)
 
 See the full [Publications](/publications/) page for all 23 papers.
 
